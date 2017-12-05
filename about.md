@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Mind the Gaps** is a project funded thanks to a _tender_ organised by the [Open Data Institute (ODI)][]. The project is facilitated by a joint of [dtc innovation][] and [Alaine Burns][].
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Its **seed** has been planted during an interview between _Kevin O'Malley_ (Bristol City Hall) and _Thomas Parisot_ (dtc innovation).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Its **intent** is to become an encouraging map aimed at highlighting city inequalities and possible pathways to their resolutions.
+
+We feel more comforable to work in the open with an emerging **approach**.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Open Data Institute (ODI)]: https://theodi.org/
+[dtc innovation]: https://dtc-innovation.org/
+[Alaine Burns]: https://www.linkedin.com/in/alaine-burns-7147592b
