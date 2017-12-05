@@ -9,3 +9,9 @@ $text-color: #333;
 $brand-color: #357edd;
 
 @import "minima";
+
+.site-header,
+.site-footer {
+  border-color: lighten($brand-color, 10%);
+  border-bottom-color: lighten($brand-color, 20%);
+}
