@@ -77,12 +77,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.6054910999999947, 51.44364890000001]
+        "coordinates": [-2.5953912, 51.4424552]
       },
       "properties": {
         "marker-symbol": "farm",
-        "name": "Windmill Hill City Farm ",
-        "address": "Beauley Rd, Bristol BS3 1QG, UK"
+        "name": "Windmill Hill City Farm",
+        "address": "Philip St, Bristol BS3 4EA"
       }
     }
   ]
