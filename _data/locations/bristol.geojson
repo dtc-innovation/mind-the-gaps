@@ -12,6 +12,78 @@
         "name": "Bristol Free Library",
         "address": "Bristol BS1 4DT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.602021499999978, 51.4525405]
+      },
+      "properties": {
+        "marker-symbol": "town-hall",
+        "name": "Bristol City Council",
+        "address": "College Green, Bristol BS1 5TR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5980997000000343, 51.4517861]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Pervasive Media Studio",
+        "address": "1 Canon's Rd, Bristol BS1 5TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.593330000000037, 51.4429785]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Hackerspace",
+        "address": "G11, BV Studios, 37 Philip St, Bristol BS3 4EA, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6054910999999947, 51.44364890000001]
+      },
+      "properties": {
+        "marker-symbol": "shelter",
+        "name": "BS3 Community",
+        "address": "Beauley Rd, Bristol BS3 1QG, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5913759999999684, 51.43968199999999]
+      },
+      "properties": {
+        "marker-symbol": "shelter",
+        "name": "Windmill Hill Community Association and Social Club",
+        "address": "Vivian St, Bristol BS3 4LW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6054910999999947, 51.44364890000001]
+      },
+      "properties": {
+        "marker-symbol": "farm",
+        "name": "Windmill Hill City Farm ",
+        "address": "Beauley Rd, Bristol BS3 1QG, UK"
+      }
     }
   ]
 }
