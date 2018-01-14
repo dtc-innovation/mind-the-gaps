@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.4517754, -2.5954064000000017]
+        "coordinates": [-2.5954064000000017, 51.4517754]
       },
       "properties": {
         "marker-symbol": "library",
