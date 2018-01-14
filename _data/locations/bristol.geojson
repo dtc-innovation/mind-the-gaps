@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4517754, -2.5954064000000017]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "name": "Bristol Free Library",
+        "address": "Bristol BS1 4DT"
+      }
+    }
+  ]
+}
