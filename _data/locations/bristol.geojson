@@ -56,7 +56,7 @@
         "coordinates": [-2.6054910999999947, 51.44364890000001]
       },
       "properties": {
-        "marker-symbol": "home",
+        "marker-symbol": "town",
         "name": "BS3 Community",
         "address": "Beauley Rd, Bristol BS3 1QG, UK"
       }
@@ -68,7 +68,7 @@
         "coordinates": [-2.5913759999999684, 51.43968199999999]
       },
       "properties": {
-        "marker-symbol": "home",
+        "marker-symbol": "town",
         "name": "Windmill Hill Community Association and Social Club",
         "address": "Vivian St, Bristol BS3 4LW"
       }
@@ -92,7 +92,7 @@
         "coordinates": [-2.5955517, 51.4252323]
       },
       "properties": {
-        "marker-symbol": "zoo",
+        "marker-symbol": "town",
         "name": "Knowles Media Centre",
         "address": "Leinster Ave, Bristol BS4 1NL"
       }
