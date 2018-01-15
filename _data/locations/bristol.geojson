@@ -84,6 +84,17 @@
         "name": "Windmill Hill City Farm",
         "address": "Philip St, Bristol BS3 4EA"
       }
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5955517,17, 51.4252323]
+      },
+      "properties": {
+        "marker-symbol": "home",
+        "name": "Knowles Media Centre",
+        "address": "Leinster Ave, Bristol BS4 1NL"
+      }
     }
   ]
 }
