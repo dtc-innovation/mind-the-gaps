@@ -21,7 +21,9 @@ Here are the questions we asked to ourselves after the end of the day 1 of our w
 - I enjoyed the closeness of the relationships of people we met today, people who aren't necessarily from the same departments.
 - I enjoyed the availability and dedication of the people we met.
 - I enjoyed the space for us to work.
-- I enjoyed collaborative coding and publication.
+- I enjoyed collaborative coding and publication
+
+![]({{ '/assets/posts/bristol-mapping-inequality.jpg' | relative_url }})
 
 # Disliked
 
@@ -31,8 +33,6 @@ Here are the questions we asked to ourselves after the end of the day 1 of our w
 - I would have liked more 'doing'
 - Too much milk in the tea :/
 - I felt the day was jam-packed and we lacked time to do things as a team, like summarising interview notes
-
-![]({{ '/assets/posts/bristol-mapping-inequality.jpg' | relative_url }})
 
 # Learned
 
