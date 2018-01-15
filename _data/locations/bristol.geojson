@@ -89,7 +89,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.5955517,17, 51.4252323]
+        "coordinates": [-2.5955517, 51.4252323]
       },
       "properties": {
         "marker-symbol": "home",
