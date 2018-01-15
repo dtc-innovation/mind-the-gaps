@@ -32,6 +32,8 @@ Here are the questions we asked to ourselves after the end of the day 1 of our w
 - Too much milk in the tea :/
 - I felt the day was jam-packed and we lacked time to do things as a team, like summarising interview notes
 
+![]({{ '/assets/posts/bristol-mapping-inequality.jpg' | relative_url }})
+
 # Learned
 
 - I learned about Bristol, general knowledge about the city, the neighbourhoods
