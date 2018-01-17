@@ -96,6 +96,18 @@
         "name": "Knowles Media Centre",
         "address": "Leinster Ave, Bristol BS4 1NL"
       }
+    },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6055067, 51.4583331]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "name": "Jean Golding Institute",
+        "address": "Royal Fort House, University of Bristol, Bristol, BS8 1UH"
+      }
     }
   ]
 }
