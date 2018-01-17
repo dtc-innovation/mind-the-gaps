@@ -1,5 +1,5 @@
-Day, Time, Activity, People, Location, Completed, Notes,
-Sunday, 19.00, Meet and greet + lunch, "Our Team", Airbnb, Done,""
+Day, Time, Activity, People, Location, Completed, Notes
+Sunday, 19.00, Meet and greet + lunch, "Our Team", Airbnb, Done, 
 Sunday, 21.00, Timeline workshop, "Our Team", Airbnb, Done, [See post]({% link _posts/2018-01-14-timeline.md %})
 
 Monday, 09.30, Kick Off, "Our Team, Kevin", City Hall, Done, See diary
