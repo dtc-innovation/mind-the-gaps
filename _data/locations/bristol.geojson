@@ -108,6 +108,18 @@
         "name": "Jean Golding Institute",
         "address": "Royal Fort House, University of Bristol, Bristol, BS8 1UH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5987664, 51.4498118]
+      },
+      "properties": {
+        "marker-symbol": "town",
+        "name": "Voscur",
+        "address": "Royal Oak House, Royal Oak Avenue, Bristol, BS1 4GB"
+      }
     }
   ]
 }
