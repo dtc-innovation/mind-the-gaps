@@ -11,6 +11,7 @@ Here are the questions we asked to ourselves after the end of the day 4 of our w
 3. Any action/things you'd like to do tomorrow?
 4. Is there something slowing you down?
 
+{% include figure.html src='assets/posts/2018-01-18-cafe-societe-day-timeline.jpg' alt='Planning the day' %}
 
 # Enjoy
 
@@ -33,6 +34,9 @@ Here are the questions we asked to ourselves after the end of the day 4 of our w
 - I disliked the move between the KWMC to the Factory… (not very pleasant)
 - The pace of the day was too patchy and I got tired of moving around.
 
+{% include figure.html src='assets/posts/2018-01-18-filwood-cafe-framing-presentation.jpg' alt='Framing tomorrow presentation' %}
+
+
 # Do
 
 - Speak to John the open data activist we met at themeetup (+1)
@@ -46,4 +50,3 @@ Here are the questions we asked to ourselves after the end of the day 4 of our w
 # Slowing me down
 
 - Energy level (+2)
--
