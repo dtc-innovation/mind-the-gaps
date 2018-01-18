@@ -120,6 +120,30 @@
         "name": "Voscur",
         "address": "Royal Oak House, Royal Oak Avenue, Bristol, BS1 4GB"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.588031, 51.4255456]
+      },
+      "properties": {
+        "marker-symbol": "town",
+        "name": "Filwood Community Centre",
+        "address": "Barnstaple Rd, Bristol BS4 1JP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5875467, 51.4251724]
+      },
+      "properties": {
+        "marker-symbol": "campside",
+        "name": "re:work",
+        "address": "8 Filwood Broadway, Bristol BS4 1JN"
+      }
     }
   ]
 }
