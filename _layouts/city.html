@@ -2,4 +2,19 @@
 layout: page
 ---
 
+{% assign slug = page.name | remove: '.html' | remove: '.md' %}
+{% assign posts = site.posts | where_exp: 'p', "p.tags contains slug" %}
+
 {{ content }}
+
+{% if posts %}
+
+  <h1>Journal</h1>
+
+  <p>
+    This is the work which happened with this city local government to develop the project.
+  </p>
+
+  {% include posts-list.html posts=posts %}
+
+{% endif %}
