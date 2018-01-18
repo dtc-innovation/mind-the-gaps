@@ -137,6 +137,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-2.5866173, 51.4201244]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Knowle Media Centre Factory",
+        "address": "Unit 24/25, Filwood Green Business Park, Hengrove Way, Bristol BS4 1ET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-2.5875467, 51.4251724]
       },
       "properties": {
