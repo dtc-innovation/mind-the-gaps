@@ -1,0 +1,18 @@
+<table>
+  <thead>
+    <tr>
+    {% for col in include.data[0] %}
+      <th align="left">{{ col[0] | markdownify }}</th>
+    {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in include.data %}
+    <tr>
+      {% for col in row %}
+      <td>{{ col[1] | markdownify }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

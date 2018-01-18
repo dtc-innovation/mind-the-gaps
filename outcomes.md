@@ -23,6 +23,16 @@ The collective was formed of 4 persons:
 * [Romain Crestey](https://github.com/ioiurson) ([drawings](https://cargocollective.com/ourson))
 * [Thomas Parisot](https://dtc-innovation.org)
 
+This is how [we spent our time][timeplanner].
+
+## Accountability
+
+We value public money and thus, we want to be transparent on how we spent it to develop the project.
+
+{% include table.html data=site.data.spendings.odi-grant %}
+
 ## Code
 
 No code has been produced yet. We're investigating the _why_ and the _how_ at the moment.
+
+[timeplanner]: https://github.com/dtc-innovation/mind-the-gaps/blob/master/_data/timeplanner.csv
