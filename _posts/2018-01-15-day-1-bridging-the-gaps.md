@@ -95,7 +95,20 @@ How can that lead to positive change for all? Can open data help surface problem
 * That there is opportunity to showcase the project in the Data Dome
 * Specifically during a data festival due to happen in March.
 
-Data sources: Quality of life survey - ONS - JNSA - NHS - Police - Data.gov - Bristol Open Data Platform 
+Data sources:
+* [Quality of life survey](https://www.bristol.gov.uk/statistics-census-information/the-quality-of-life-in-bristol)
+* [Deprivation in Bristol](https://www.bristol.gov.uk/statistics-census-information/deprivation)
+	* [UK results](https://www.gov.uk/government/statistics/english-indices-of-deprivation-201)
+	* [Technical Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/464485/English_Indices_of_Deprivation_2015_-_Technical-Report.pdf)
+* [Happy City Index](http://www.happycity.org.uk/measurement-policy/happy-city-index/2016-results/)
+* [ONS](https://www.ons.gov.uk)
+* JNSA
+* NHS
+* [Police](https://data.police.uk)
+* [Data.gov](https://data.gov.uk)
+* [Bristol Open Data Platform](https://opendata.bristol.gov.uk/pages/home/)
+	* [Demographic](https://www.bristol.gov.uk/documents/20182/33904/Population+of+Bristol+September+2017.pdf/53020277-05de-a153-2052-aa080338bb57)
+
 Resources: Deprivation Index
 
 _Expression of the day: Bridge the gaps_
