@@ -156,6 +156,18 @@
         "name": "re:work",
         "address": "8 Filwood Broadway, Bristol BS4 1JN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6207907, 51.4463843]
+      },
+      "properties": {
+        "marker-symbol": "house",
+        "name": "Airbnb",
+        "address": "15 Avon Crescent, Bristol BS1 6XQ"
+      }
     }
   ]
 }
