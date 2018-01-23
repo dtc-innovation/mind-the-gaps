@@ -8,8 +8,10 @@ title: Diary of day 1 • Bridging the gaps
 **12.00 - Team building and alignment session**  
 **13.00 - Lunch at the cantine**  
 **14.00 - Meeting with Phil Chan - Quality of life survey**  
-**15.30 - Meeting about the One City Plan**  
-**18.00 - [Team retrospective](https://dtc-innovation.github.io/mind-the-gaps/2018/01/15/retrospective.html)**  
+**15.30 - Meeting about the One City Plan** 
+**16.00 - Team coding**
+**17.00 - [Team retrospective](https://dtc-innovation.github.io/mind-the-gaps/2018/01/15/retrospective.html)**  
+**18.30 - Team drinks at the (Grain Barge)[http://www.grainbarge.com/]
 
 ## Summary
 On this first day of the project, we set out to spend the day at Bristol City Council, meeting the team leading the City Innovation Programs, championing open data and actively working for change.
@@ -34,7 +36,7 @@ How do we create a finer fabric for sensing these things and can it positively i
 ## Interviews
 We interviewed 5 people:
 
-* **Kevin O’Malley, City Innovation Team Manager at Bristol City Council**  
+* **Kevin O’Malley, City Innovation Team Manager at (Bristol City Council)[http://bristol.gov.uk/]**  
 Our main contact for this program.
 Top quotes:
 
@@ -42,7 +44,7 @@ Top quotes:
 
 	
 
-* **Matt Davenport, Open Data Project Manager at Bristol City Council**
+* **Matt Davenport, Open Data Project Manager at (Bristol City Council)[http://bristol.gov.uk/]**
 
 Currently developing a program of activity around open data.
 
