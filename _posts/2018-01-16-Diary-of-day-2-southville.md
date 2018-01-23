@@ -1,5 +1,5 @@
 ---
-title: Diary of day 2 
+title: Diary of day 2 • Southville
 ---
 
 ### Program of the day:
@@ -43,7 +43,7 @@ Ai Wei Wei’s [*Straight*](http://www.criticismism.com/2015/10/01/ai-weiwei-str
 
 Considering Bristol’s strong history in social activism, tight-knit communities and attachment to street art, Jose Duarte’s [*Data in the Street, by hand*](https://www.flickr.com/photos/joseduarteq/) seemed an interesting participatory format.
 
-### Workshop 2 - Synthesizing notes from the previous day**
+### Workshop 2 - Synthesizing notes from the previous day
 
 We’ve absorbed a lot of information on the multiple initiatives that drive innovation within Bristol. Council initiatives, in collaboration with industry partners, and a vibrant community of social activism. A great opportunity for Alaine to draw a mind map as we go along.
 
@@ -104,7 +104,7 @@ Which data sets should be regularly updated? How can users let a publisher know 
 
 ### End of day 
 
-We treat ourselves to some of the best fish and chips in town at the [Clifton Village Fish Bar](www.cliftonvillagefishbar.co.uk)
+We treat ourselves to some of the best fish and chips in town at the [Clifton Village Fish Bar](www.cliftonvillagefishbar.co.uk).
 
 Bit of team vertigo - we are approaching the tip of the double diamond shape.
 
