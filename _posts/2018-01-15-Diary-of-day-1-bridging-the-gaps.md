@@ -2,9 +2,7 @@
 title: Diary of day 1 • Bridging the gaps
 ---
 
-## Mind the gaps 
-
-##### Program of the day:  
+### Program of the day:  
 **9.30 - Kick-off meeting with Kevin O’Malley**  
 **10.30 - Kick-off meeting with Matt Davenport**  
 **12.00 - Team building and alignment session**  
@@ -30,6 +28,8 @@ How do we create a finer fabric for sensing these things and can it positively i
 "There is inequality everywhere but, what are we doing about it?"
 
 * Averages are the enemy. Local and regional data need a boost in order for this to be successful.
+
+{% include figure.html src='/assets/posts/day-1-airbnb-view.jpg' %}
 
 ## Interviews
 We interviewed 5 people:
@@ -81,6 +81,8 @@ Bristol is launching a program designed to share a vision, and baseline existing
 A prioritisation of efforts which is designed to be future-thinking, and invite to think in the long term. What will cities and societies look like in 2050?
 They wish to open these questions to the people of Bristol by opening up the program and extend invitations to collaboratively design and shape the future of the city.
 
+{% include figure.html src='/assets/posts/day-1-current-mood.jpg' %}
+
 ## Coming together as a team
 
 Any good Design Sprint or Work Week should begin with making time for the team to get to know each other, to spell out their expectations and aspirations about the project.
@@ -92,6 +94,8 @@ Niched in a room in Bristol City Council, we each listed:
 * What we'd like to do during the week.
 
 The last item recognizes that we all have become accustomed to endorsing roles and titles but we are also curious people, eager to make use of skills that might or might not fall into our pre-baked 'categorisations'. Recognising the multi-potential in people rather than assigning them to "tribes", that feel restrictive.
+
+{% include figure.html src='/assets/posts/day-1-what-do-u-want.jpg' %}
 
 ## End of day conclusions and questions:
 
