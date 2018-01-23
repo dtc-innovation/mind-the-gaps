@@ -1,8 +1,10 @@
+---
+title: Diary of day 1 • Bridging the gaps
+---
+
 ## Mind the gaps 
 
-### Day 1 — Bridging the gaps
-
-Program of the day:  
+##### Program of the day:  
 **9.30 - Kick-off meeting with Kevin O’Malley**  
 **10.30 - Kick-off meeting with Matt Davenport**  
 **12.00 - Team building and alignment session**  
@@ -79,6 +81,18 @@ Bristol is launching a program designed to share a vision, and baseline existing
 A prioritisation of efforts which is designed to be future-thinking, and invite to think in the long term. What will cities and societies look like in 2050?
 They wish to open these questions to the people of Bristol by opening up the program and extend invitations to collaboratively design and shape the future of the city.
 
+## Coming together as a team
+
+Any good Design Sprint or Work Week should begin with making time for the team to get to know each other, to spell out their expectations and aspirations about the project.
+Niched in a room in Bristol City Council, we each listed:  
+* Our current mood
+* What we'd like to learn this week
+* Our fears
+* Our expectations
+* What we'd like to do during the week.
+
+The last item recognizes that we all have become accustomed to endorsing roles and titles but we are also curious people, eager to make use of skills that might or might not fall into our pre-baked 'categorisations'. Recognising the multi-potential in people rather than assigning them to "tribes", that feel restrictive.
+
 ## End of day conclusions and questions:
 
 What is a deprived area?  
@@ -111,7 +125,7 @@ Data sources:
 
 Resources: Deprivation Index
 
-_Expression of the day: Bridge the gaps_
+_Expression of the day: Bridge the gaps_  
 _Notable word slips:_
 _Lol tech, selfless cars, datastellations_
 
