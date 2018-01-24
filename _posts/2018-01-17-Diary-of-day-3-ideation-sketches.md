@@ -1,4 +1,6 @@
-## Watershed — Ideation sketching
+---
+title: Diary of day 3 • Watershed and ideation sketching
+---
 
 ### Program for the day:
 * 9.00 External comms - Get in touch with Jean Golding Institute, other people on the ground at KWMC, Tech for good.
@@ -15,8 +17,6 @@
 
 **Image of the day** - [‘Theatrical individuals’](http://archives.bristol.gov.uk/Record.aspx?src=CalmView.Catalog&id=43207%2f31%2f2%2f1)   in the Bristol archives
 {% include figure.html src='/assets/posts/Mr George Miller © Bristol Archives.jpg' %}
-
-We’re keen to do some research and share our findings.
 
 At the Open Data Community Meetup the previous day, we witnessed the challenge of compiling data sets that are all made available on different platforms.
 
@@ -69,7 +69,7 @@ Find out which are the most viewed or most downloaded data sets in national and 
 
 Take cues from the community? Rent/housing, homelessness, anti-social behaviour.
 
-### Framework to create citizen data — could be part of the One City Plan and/or Open Data Activity Programme.
+### Mind the gaps could be... A framework to create citizen data — potentially part of the One City Plan and/or Open Data Activity Programme?
 
 **Concluding remark**:
 
