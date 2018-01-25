@@ -10,9 +10,11 @@ Date,Amount,Provider,Type,Title,Description
 2018-01-15,£26.40,Cash Hall,Food,Lunch in City Hall,Salad and Lasagne for 4 persons
 2018-01-15,£550.00,Thomas,Work,Daily invoice,
 2018-01-15,€500.00,Romain,Work,Daily invoice,
+2018-01-15,£400.00,Alaine,Work,Daily invoice,
 2018-01-16,£29.80,Wokyko,Food,Lunch,Green curry and chicken noodles for 4 persons
 2018-01-16,£00.00,Thomas,Work,Daily invoice,
 2018-01-16,€500.00,Romain,Work,Daily invoice,
+2018-01-16,£400.00,Alaine,Work,Daily invoice,
 2018-01-17,£14.60,Cash Hall,"Food,Drinks",Refreshments,Coffee and snacks for 4 persons
 2018-01-17,£12.50,Watershed,"Food,Drinks",Refreshments,"Coffee,juice and cake for 4 persons"
 2018-01-17,£35.00,Watershed,Food,Lunch,Mains and sides for 4 persons
@@ -20,12 +22,15 @@ Date,Amount,Provider,Type,Title,Description
 2018-01-17,£550.00,Thomas,Work,Daily invoice,
 2018-01-17,£59.78,Easyjet,Transport,Romain airplane ticket + extra luggage,Bristol to Bordeaux
 2018-01-17,€500.00,Romain,Work,Daily invoice,
+2018-01-17,£400.00,Alaine,Work,Daily invoice,
 2018-01-18,£08.00,First Bus,Transport,City Centre to Knowle,
 2018-01-18,£00.00,Thomas,Work,Daily invoice,
-2018-01-18,10.90,uber,Transport,Bristol,Return from south for 4 persons
+2018-01-18,£10.90,uber,Transport,Bristol,Return from south for 4 persons
 2018-01-18,€500.00,Romain,Work,Daily invoice,
+2018-01-18,£400.00,Alaine,Work,Daily invoice,
 2018-01-19,£550.00,Thomas,Work,Daily invoice,
 2018-01-19,£8,Bristol Airport,Transport,Romain airport bus ticket,
 2018-01-19,€500.00,Romain,Work,Daily invoice,
+2018-01-19,£400.00,Alaine,Work,Daily invoice,
 2018-01-19,£40.00,Pinkmans,Food,Lunch,"4 pizzas and some delicious beetroot hummus"
 2018-01-19,£07.90,Café du jour,Drinks,Coffee,"4 coffees to go prior to presentation at City Hall"
