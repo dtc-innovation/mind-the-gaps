@@ -50,7 +50,7 @@ We decide to stick around for lunch.
 
 A hearty jacket potato reward and the best cuppa in town.
 
-{% include figure.html src='/assets/posts/day-4-best-cuppa.jpg %}
+{% include figure.html src='/assets/posts/day-4-best-cuppa.jpg' %}
 
 We align on a narrative of the project’s re-framing and stages of a restitution to Bristol City Council, the next day.
 
