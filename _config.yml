@@ -13,6 +13,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+work_week1_date: 2018-01-14T00:00:00
+
 exclude:
   - Gemfile
   - Gemfile.lock

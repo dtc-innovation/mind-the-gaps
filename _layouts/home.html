@@ -6,8 +6,10 @@ layout: default
 
   {{ content }}
 
-  <h1>Journal</h1>
+  <h1>Work week 1</h1>
 
-  {% include posts-list.html posts=site.posts %}
 
+  <h1>Project launch</h1>
+  {% assign xxx=site.posts | where_exp:"post", "post.date < site.work_week1_date" %}
+  {% include posts-list.html posts=xxx %}
 </div>
