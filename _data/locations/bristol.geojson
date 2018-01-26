@@ -101,7 +101,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.6055067, 51.4583331]
+        "coordinates": [-2.6024742, 51.457746]
       },
       "properties": {
         "marker-symbol": "library",
