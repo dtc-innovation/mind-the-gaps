@@ -113,7 +113,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.5987664, 51.4498118]
+        "coordinates": [-2.5965777000000116, 51.4498118]
       },
       "properties": {
         "marker-symbol": "town",
@@ -167,6 +167,18 @@
         "marker-symbol": "heart",
         "name": "Airbnb",
         "address": "15 Avon Crescent, Bristol BS1 6XQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6008123999999953, 51.4500932]
+      },
+      "properties": {
+        "marker-symbol": "town",
+        "name": "Bristol Data Dome",
+        "address": "We the Curious, Anchor Rd, Harbourside, Bristol BS1 5DB, UK"
       }
     }
   ]
