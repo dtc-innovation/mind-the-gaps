@@ -6,15 +6,15 @@ tags:
 ---
 
 ### Program of the day:
-**9.00 - Visit and demo of the [Data Dome](http://futurecities.catapult.org.uk/project/bristol-data-dome/#)**
-**10.00 - Day plan**
-**10.45 - Visit of the [Knowle West Media Centre](http://kwmc.org.uk/)**
-**11.30 - Visit of the [Knowle West Media Centre Factory](http://kwmc.org.uk/thefactory/)**
-**13.00 - Lunch at the [Filwood Community centre](https://filwoodcommunitycentre.org.uk/)**
-**14.00 - Framework for restitution and consolidation of ideas**
-**16.00 - Fieldwork, interviews, documentation**
-**19.00 - Dinner**
-**20.30 - [Team retrospective](https://dtc-innovation.github.io/mind-the-gaps/2018/01/18/retrospective.html)**
+- 9.00 - Visit and demo of the [Data Dome](http://futurecities.catapult.org.uk/project/bristol-data-dome/#)
+- 10.00 - Day plan
+- 10.45 - Visit of the [Knowle West Media Centre](http://kwmc.org.uk/)
+- 11.30 - Visit of the [Knowle West Media Centre Factory](http://kwmc.org.uk/thefactory/)
+- 13.00 - Lunch at the [Filwood Community centre](https://filwoodcommunitycentre.org.uk/)
+- 14.00 - Framework for restitution and consolidation of ideas
+- 16.00 - Fieldwork, interviews, documentation
+- 19.00 - Dinner
+- 20.30 - [Team retrospective](https://dtc-innovation.github.io/mind-the-gaps/2018/01/18/retrospective.html)
 
 We are happy to head out to a demo of Bristol’s repurposed Planetarium, the [Data Dome](http://futurecities.catapult.org.uk/project/bristol-data-dome/#).
 Run by [We the Curious](https://www.wethecurious.org/), an exhibition space for art and science, it bears similarity to the [Exploratorium](https://www.exploratorium.edu/) in San Fancisco. Some French architects have also been working on taking technology to public spaces by building a [movable dome](http://dome-geodesique.fr/).

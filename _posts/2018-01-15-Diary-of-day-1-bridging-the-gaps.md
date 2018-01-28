@@ -6,15 +6,15 @@ tags:
 ---
 
 ### Program of the day:
-**9.30 - Kick-off meeting with Kevin O’Malley**
-**10.30 - Kick-off meeting with Matt Davenport**
-**12.00 - Team building and alignment session**
-**13.00 - Lunch at the cantine**
-**14.00 - Meeting with Phil Chan - Quality of life survey**
-**15.30 - Meeting about the One City Plan**
-**16.00 - Team coding**
-**17.00 - [Team retrospective](https://dtc-innovation.github.io/mind-the-gaps/2018/01/15/retrospective.html)**
-**18.30 - Team drinks at the (Grain Barge)[http://www.grainbarge.com/]
+- 9.30 - Kick-off meeting with Kevin O’Malley
+- 10.30 - Kick-off meeting with Matt Davenport
+- 12.00 - Team building and alignment session
+- 13.00 - Lunch at the cantine
+- 14.00 - Meeting with Phil Chan - Quality of life survey
+- 15.30 - Meeting about the One City Plan
+- 16.00 - Team coding
+- 17.00 - [Team retrospective](https://dtc-innovation.github.io/mind-the-gaps/2018/01/15/retrospective.html)
+- 18.30 - Team drinks at the [Grain Barge](http://www.grainbarge.com/)
 
 ## Summary
 On this first day of the project, we set out to spend the day at Bristol City Council, meeting the team leading the City Innovation Programs, championing open data and actively working for change.
@@ -39,7 +39,7 @@ How do we create a finer fabric for sensing these things and can it positively i
 ## Interviews
 We interviewed 5 people:
 
-* **Kevin O’Malley, City Innovation Team Manager at (Bristol City Council)[http://bristol.gov.uk/]**
+* **Kevin O’Malley, City Innovation Team Manager at [Bristol City Council](http://bristol.gov.uk/)**
 Our main contact for this program.
 Top quotes:
 
@@ -47,7 +47,7 @@ Top quotes:
 
 
 
-* **Matt Davenport, Open Data Project Manager at (Bristol City Council)[http://bristol.gov.uk/]**
+* **Matt Davenport, Open Data Project Manager at [Bristol City Council](http://bristol.gov.uk/)**
 
 Currently developing a program of activity around open data.
 
@@ -125,8 +125,8 @@ Data sources:
 	* [Technical Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/464485/English_Indices_of_Deprivation_2015_-_Technical-Report.pdf)
 * [Happy City Index](http://www.happycity.org.uk/measurement-policy/happy-city-index/2016-results/)
 * [ONS](https://www.ons.gov.uk)
-* JNSA
-* NHS
+* [JSNA](https://www.bristol.gov.uk/policies-plans-strategies/joint-strategic-needs-assessment)
+* [NHS](https://data.gov.uk/data/search?theme-primary=Health)
 * [Police](https://data.police.uk)
 * [Data.gov](https://data.gov.uk)
 * [Bristol Open Data Platform](https://opendata.bristol.gov.uk/pages/home/)

@@ -7,17 +7,17 @@ tags:
 
 ### Program of the day:
 
-**9.00 - Get in touch with [Knowle West Media Centre](http://kwmc.org.uk/)**
-**10.00 - Share data visualisations**
-**10.45 - Synthesis of yesterday’s interviews at (Watershed)[www.watershed.co.uk]**
-**13.00 - Lunch at [Wokyko](http://www.woky.co/)**
-**14.00 - Walk in Southville, get a feel of the city in different areas and collecting visual material.**
-**15.00 - Sentence game around the project. [‘Mind the Gaps is…’](https://dtc-innovation.github.io/mind-the-gaps/2018/01/16/mind-the-gaps-is-workshop.html) at BS3 Community Centre’s cafe.**
-**15.30 - Guerilla interviews in BS3 Community Centre**
-**17.00 - Project solidification - ideation at Bristol City Council**
-**18.00 - Open data community event at Bristol City Council**
-**20.00 - Dinner at Clifton Village Fish Bar.**
-**22.00 - Team retrospective**
+- 9.00 - Get in touch with [Knowle West Media Centre](http://kwmc.org.uk/)
+- 10.00 - Share data visualisations
+- 10.45 - Synthesis of yesterday’s interviews at (Watershed)[www.watershed.co.uk]
+- 13.00 - Lunch at [Wokyko](http://www.woky.co/)
+- 14.00 - Walk in Southville, get a feel of the city in different areas and collecting visual material.
+- 15.00 - Sentence game around the project. [‘Mind the Gaps is…’](https://dtc-innovation.github.io/mind-the-gaps/2018/01/16/mind-the-gaps-is-workshop.html) at BS3 Community Centre’s cafe.
+- 15.30 - Guerilla interviews in BS3 Community Centre
+- 17.00 - Project solidification - ideation at Bristol City Council
+- 18.00 - Open data community event at Bristol City Council
+- 20.00 - Dinner at Clifton Village Fish Bar.
+- 22.00 - Team retrospective
 
 **Work week pro tip - get in touch with people as soon as you can!**
 
