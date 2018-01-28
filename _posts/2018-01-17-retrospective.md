@@ -2,6 +2,7 @@
 title: Work Week Retrospective Day 3
 tags:
 - bristol
+- retrospective
 ---
 
 Here are the questions we asked to ourselves after the end of the day 3 of our work week:

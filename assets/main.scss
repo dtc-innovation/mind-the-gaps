@@ -16,6 +16,18 @@ $brand-color: #357edd;
   border-bottom-color: lighten($brand-color, 20%);
 }
 
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
 figure {
   margin: 1.5em 0;
 
@@ -28,6 +40,12 @@ figure {
 @media (min-width: 1024px) {
   table {
     margin: 1.5em -10em;
+  }
+}
+
+.post-list--horizontal {
+  li {
+    margin-bottom: 5px;
   }
 }
 
@@ -44,4 +62,53 @@ table {
   tbody tr:nth-child(odd) {
     background: lighten($brand-color, 40%);
   }
+}
+
+.work-week {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+  border-bottom: 1px solid lighten($brand-color, 20%);
+  margin-bottom: 1.5em;
+
+  article,
+  header {
+    flex: 1 0 100%;
+  }
+
+  @media (min-width: 1024px) {
+    header img {
+      max-width: 66%;
+    }
+  }
+
+  article {
+    border: 10px solid lighten($brand-color, 20%);
+    box-sizing: border-box;
+    display: flex;
+    padding: 1.5em;
+    margin: 1.5em 0;
+
+    flex-flow: row wrap;
+
+    p {
+      flex: 1;
+    }
+
+    aside {
+      flex: 0 0 auto;
+
+      li {
+        border-left: 2px solid #ccc;
+        list-style: none;
+        padding-left: 1.5em;
+      }
+    }
+  }
+
+  section {
+    width: 50%;
+  }
+
 }

@@ -2,6 +2,7 @@
 title: Work Week Retrospective Day 1
 tags:
 - bristol
+- retrospective
 ---
 
 Here are the questions we asked to ourselves after the end of the day 1 of our work week:
