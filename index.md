@@ -7,6 +7,6 @@ layout: home
 
 {{ site.description }}
 
-If you want to learn more about it beforehand, have a look at the [the project outcomes]({{ '/outcome/' | relative_url }}), the [about page]({{ '/about/' | relative_url }}) or even the [GitHub Project page](https://github.com/dtc-innovation/mind-the-gaps/).
+If you want to learn more about it beforehand, have a look at the [the project outcomes]({{ '/outcome/' | relative_url }}), the [about page]({{ '/about/' | relative_url }}) or even the [GitHub Project page]({{ site.github }}).
 
 See you around!

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Project proposal has been sent
 ---
 

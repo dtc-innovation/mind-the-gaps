@@ -2,12 +2,68 @@
 layout: default
 ---
 
-<div class="home">
+{% assign bristol = site.pages | where: 'title', 'Bristol' | first %}
+{% assign early_posts=site.posts | where_exp:"post", "post.date < site.work_week1_date" %}
+{% assign work_week=site.posts | where_exp:"post", "post.tags contains 'bristol'" | sort: 'date' %}
+{% assign workshops=work_week | where_exp:"post", "post.tags contains 'workshop'" %}
+{% assign interviews=work_week | where_exp:"post", "post.tags contains 'interviews'" %}
+{% assign diary=work_week | where_exp:"post", "post.tags contains 'diary'" %}
+{% assign retrospectives=work_week | where_exp:"post", "post.tags contains 'retrospective'" %}
+{% assign conclusion=work_week | where_exp:"post", "post.tags contains 'conclusion'" | first %}
 
+<section class="intro">
   {{ content }}
+</section>
 
-  <h1>Journal</h1>
+<section class="work-week">
+  <header>
+    <h1>Work week 1 • <a href="{{ bristol.url | relative_url }}">Bristol</a></h1>
 
-  {% include posts-list.html posts=site.posts %}
+    <img src="{{ '/assets/cities/uk/bristol.jpg' | relative_url }}" alt="Bristol Harbour on Spike Island" class="hero">
+  </header>
 
-</div>
+  <article>
+    <p>
+      👓
+      <a href="{{ conclusion.url | relative_url }}">
+        Read the conclusions of our first week of research on the field
+      </a>.
+    </p>
+
+    <aside>
+      <ul>
+        <li>🗺 <a href="{{ bristol.url | relative_url }}#resources">Places, people and projects</a></li>
+      </ul>
+    </aside>
+  </article>
+
+  <section>
+    <h2>📖 Diary</h2>
+
+    {% include posts-list-horizontal.html posts=diary %}
+  </section>
+
+  <section>
+    <h2>💬 Team Retrospectives</h2>
+
+    {% include posts-list-horizontal.html posts=retrospectives %}
+  </section>
+
+  <section>
+    <h2>👩‍🏫 Workshops</h2>
+
+    {% include posts-list-horizontal.html posts=workshops %}
+  </section>
+
+  <section>
+    <h2>🎤 Interviews</h2>
+
+    {% include posts-list-horizontal.html posts=interviews %}
+  </section>
+</section>
+
+<section>
+  <h1>🚀 Project launch</h1>
+
+  {% include posts-list.html posts=early_posts %}
+</section>
