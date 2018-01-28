@@ -1,11 +1,11 @@
 title: Mind the Gaps
 email: mind-the-gaps@framalistes.org
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   _Mind the Gaps_ is an encouraging map aimed at highlighting city inequalities and possible pathways to their resolutions.
 baseurl: "/mind-the-gaps" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+
+github: https://github.com/dtc-innovation/mind-the-gaps/
 
 markdown: kramdown
 theme: minima
@@ -13,6 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+timezone: Europe/London
 work_week1_date: 2018-01-14T00:00:00
 
 exclude:
