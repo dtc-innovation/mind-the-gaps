@@ -93,7 +93,12 @@ table {
     flex-flow: row wrap;
 
     p {
+      font-size: 1.3em;
       flex: 1;
+
+      a {
+        text-decoration: underline;
+      }
     }
 
     aside {
