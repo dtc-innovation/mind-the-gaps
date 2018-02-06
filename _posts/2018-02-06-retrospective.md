@@ -1,5 +1,5 @@
 ---
-title: Retrospective
+title: Retrospective of the day
 tags:
 - retrospective
 ---
@@ -10,6 +10,7 @@ Here are the questions we asked to ourselves after the end of the day:
 2. What would you like to change tomorrow?
 3. Is there something slowing you down?
 
+{% include figure.html src='assets/posts/2018-02-06-planning.jpg' %}
 
 # Enjoy
 
@@ -28,6 +29,8 @@ Here are the questions we asked to ourselves after the end of the day:
 - Calming my panic/uncertainty about time and decision making
 - Work in a warmer place - drafts are the enemy!
 - Driven slightly insane by the Brasilian traditional music and film run in the background.
+
+{% include figure.html src='assets/posts/2018-02-06-mapping.jpg' %}
 
 # Slowing me down
 
