@@ -10,6 +10,10 @@ $brand-color: #357edd;
 
 @import "minima";
 
+.site-title {
+  font-weight: normal;
+}
+
 .site-header,
 .site-footer {
   border-color: lighten($brand-color, 10%);
@@ -77,17 +81,14 @@ table {
     flex: 1 0 100%;
   }
 
-  @media (min-width: 1024px) {
-    header img {
-      max-width: 66%;
-    }
-  }
-
   article {
+    background: url({{ '/assets/cities/uk/bristol.jpg' | relative_url }});
+    background-size: cover;
+    background-position: center;
     border: 10px solid lighten($brand-color, 20%);
     box-sizing: border-box;
     display: flex;
-    padding: 1.5em;
+    padding: 10em 1.5em 1.5em;
     margin: 1.5em 0;
 
     flex-flow: row wrap;
@@ -95,10 +96,12 @@ table {
     p {
       font-size: 1.3em;
       flex: 1;
+    }
 
-      a {
-        text-decoration: underline;
-      }
+    a {
+      background: lighten($brand-color, 20%);
+      color: #fff;
+      padding: .1em .2em;
     }
 
     aside {

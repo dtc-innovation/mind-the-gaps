@@ -4,6 +4,7 @@ layout: default
 
 {% assign bristol = site.pages | where: 'title', 'Bristol' | first %}
 {% assign early_posts=site.posts | where_exp:"post", "post.date < site.work_week1_date" %}
+{% assign recent_posts=site.posts | where_exp:"post", "post.date > site.recent_posts_since" %}
 {% assign work_week=site.posts | where_exp:"post", "post.tags contains 'bristol'" | sort: 'date' %}
 {% assign workshops=work_week | where_exp:"post", "post.tags contains 'workshop'" %}
 {% assign interviews=work_week | where_exp:"post", "post.tags contains 'interviews'" %}
@@ -15,17 +16,21 @@ layout: default
   {{ content }}
 </section>
 
+<section id="recent-news">
+  <h1>🔥 What kept us busy lately</h1>
+
+  {% include posts-list.html posts=recent_posts %}
+</section>
+
 <section class="work-week">
   <header>
-    <h1>Work week 1 • <a href="{{ bristol.url | relative_url }}">Bristol</a></h1>
-
-    <img src="{{ '/assets/cities/uk/bristol.jpg' | relative_url }}" alt="Bristol Harbour on Spike Island" class="hero">
+    <h1>⛺️ A week of research in <a href="{{ bristol.url | relative_url }}">Bristol</a></h1>
   </header>
 
   <article>
     <p>
-      👓
       <a href="{{ conclusion.url | relative_url }}">
+        👓
         <strong>Read the conclusions</strong> of our first week of research on the field
       </a>.
     </p>
@@ -62,7 +67,7 @@ layout: default
   </section>
 </section>
 
-<section>
+<section id="older-news">
   <h1>🚀 Project launch</h1>
 
   {% include posts-list.html posts=early_posts %}
