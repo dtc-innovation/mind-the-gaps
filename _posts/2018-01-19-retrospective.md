@@ -1,5 +1,6 @@
 ---
 title: Work Week Retrospective Day 5
+image: /assets/posts/2018-01-19-jean-golding-institute.jpg
 tags:
 - bristol
 - retrospective

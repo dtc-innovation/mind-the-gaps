@@ -1,5 +1,6 @@
 ---
 title: Alignment Workshop
+image: /assets/posts/alignment-workshop.jpg
 tags:
 - bristol
 - workshop

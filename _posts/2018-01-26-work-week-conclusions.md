@@ -1,5 +1,6 @@
 ---
 title: Work Week Conclusions
+image: /assets/posts/mind-the-gaps-work-week-conclusions-page-01.png
 tags:
 - bristol
 - presentation

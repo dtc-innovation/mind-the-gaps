@@ -1,5 +1,6 @@
 ---
 title: Work Week Retrospective Day 2
+image: /assets/posts/testimony-red-noses.jpg
 tags:
 - bristol
 - retrospective

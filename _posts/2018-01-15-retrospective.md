@@ -1,5 +1,6 @@
 ---
 title: Work Week Retrospective Day 1
+image: /assets/posts/bristol-mapping-inequality.jpg
 tags:
 - bristol
 - retrospective

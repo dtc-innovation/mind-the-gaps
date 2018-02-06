@@ -1,5 +1,6 @@
 ---
 title: Work Week Retrospective Day 3
+image: /assets/posts/2018-01-17-retrospective.jpg
 tags:
 - bristol
 - retrospective

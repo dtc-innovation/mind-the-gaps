@@ -1,5 +1,6 @@
 ---
 title: Work Week Retrospective Day 4
+image: /assets/posts/2018-01-18-cafe-societe-day-timeline.jp
 tags:
 - bristol
 - retrospective

@@ -1,5 +1,6 @@
 ---
 title: 8 Sketches Workshop
+image: /assets/workshops/8-sketches/all-sketches.jpg
 tags:
 - bristol
 - workshop
