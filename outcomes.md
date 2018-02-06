@@ -8,13 +8,13 @@ permalink: /outcomes/
 
 This website acts as a living documentation of _what is happening_, _what we are thinking about_ and _what is being produced_.
 
-## Discussions
+## Newsletters
 
-Discussions are available as [open web archive][framalist]. Subscription is open to all.
+We send project updates once in a while. [Subscribe to them](#subscribe).
 
-## Kick Off Work Week
+## Research Week
 
-We ran a collective work week in Bristol from Jan 15th to Jan 19th 2018.
+Our data collective ran a work week in Bristol from Jan 15th to Jan 19th 2018.
 
 The collective was formed of 4 persons:
 
@@ -33,6 +33,6 @@ We value public money and thus, we want to be transparent on how we spent it to 
 
 ## Code
 
-No code has been produced yet. We're investigating the _why_ and the _how_ at the moment.
+No code is being produced. A prototype will come with Phase II of the project.
 
 [timeplanner]: https://github.com/dtc-innovation/mind-the-gaps/blob/master/_data/timeplanner.csv

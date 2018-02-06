@@ -1,3 +1,19 @@
+<div class="wrapper" id="newsletter">
+  <h2>📬 Stay updated</h2>
+
+  <form action="{{ site.newsletter }}" method="post">
+    <div class="email-group">
+      <label for="email" class="sr-only">Email</label>
+      <input type="email" name="email" id="subscribe" placeholder="your-email@something.net" required>
+      <button class="button">Subscribe</button>
+    </div>
+  </form>
+
+  <p>
+    We will send you <em>project highlights</em> once in a while.
+  </p>
+</div>
+
 <footer class="site-footer h-card">
  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
@@ -13,6 +29,9 @@
          {% endif %}
          {% if site.github_project %}
            <li><a class="u-url" href="{{ site.github_project }}">GitHub Project</a></li>
+         {% endif %}
+         {% if site.newsletter %}
+           <li><a class="u-url" href="{{ site.newsletter }}">Newsletter</a></li>
          {% endif %}
        </ul>
      </div>

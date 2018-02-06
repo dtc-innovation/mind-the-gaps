@@ -7,6 +7,6 @@ layout: home
 
 {{ site.description }}
 
-If you want to learn more about it beforehand, have a look at the [the project outcomes]({{ '/outcome/' | relative_url }}), the [about page]({{ '/about/' | relative_url }}) or even the [GitHub Project page]({{ site.github_project }}).
+You can [subscribe to project updates](#subscribe), have a look at the [the project outcomes]({{ '/outcome/' | relative_url }}), the [about page]({{ '/about/' | relative_url }}) or even the [GitHub Project page]({{ site.github_project }}).
 
 See you around!
