@@ -1,6 +1,6 @@
 ---
 title: |
-  "Data, Citizen Sensing and Urban Resilience", our proposal to Bristol Open Data Festival
+  "Data, Citizen Sensing and Urban Resilience", our proposal to Data for Development Festival in Bristol
 tags:
 - bristol
 - talk
