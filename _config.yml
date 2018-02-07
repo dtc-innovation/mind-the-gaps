@@ -4,6 +4,7 @@ description: >-
   _Mind the Gaps_ is an encouraging map aimed at highlighting city inequalities and possible pathways to their resolutions.
 baseurl: "/mind-the-gaps" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en_GB
 twitter_username:
 github_username:
 github_project: https://github.com/dtc-innovation/mind-the-gaps/
