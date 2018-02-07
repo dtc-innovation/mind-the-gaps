@@ -1,5 +1,17 @@
 {
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5821177999999918, 44.8382107]
+      },
+      "properties": {
+        "marker-symbol": "town-hall",
+        "name": "Cité Municipale",
+        "address": "4 Rue Claude Bonnier, 33077 Bordeaux"
+      }
+    }
   ]
 }
