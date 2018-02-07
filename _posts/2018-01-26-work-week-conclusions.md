@@ -83,15 +83,75 @@ One of our conclusion is a _smart city_ is not only _Internet of Things_ sensors
 Let's talk more about the Quality of Life Survey.
 
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-12.png" %}
+
+One of the goals of the survey is to help define a <q>city of well-connected neighbourhoods with a strong sense of identity and belonging, that ensures that homes are increasingly affordable to all that them, including the most vulnerable.</q>
+
+We liked the quote of the mayor _Martin Rees_. The quote can be found on the Quality of Life posting enveloppes:
+
+> I value your opinion. Please take time to tell me about life in Bristol.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-13.png" %}
+
+The survey is rich of data and trends evolution since 2001. By ward. By priority indicators.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-14.png" %}
+
+Why do we think it is a rich resource?
+
+We think it is because it measures things which are rarely collected and measured from citizens. The survey completes the picture given by offficial statistics.
+
+The survey also contains a closing question which is rife with information about citizen concerns.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-15.png" %}
+
+It is a rich resource _but_ it exists only in Bristol. It is then _not replicable_ (cf. our project principles).
+
+There are _gaps in data_. The most deprived areas respond the less. Some questions lack capturing the _whys_.
+
+We felt we hit _dead ends_ when a set of questions was highlighting a problem but was _lacking connection_ with solutions.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-16.png" %}
+
+It made us think wideer than the initial proposal proposal, based on visualisating existing data.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-17.png" %}
+
+We came out with a _new value proposition_ that goes beyond _data visualisation_:
+
+- **Data collection**: on the sensitive side of things, a _live survey_ close to citizen needs, in term of topics but also in term of personality (Housing vs. My home wording kind of things)
+- **Data visualisation** of inequalities _and_ of weelbeing in the city
+- **Hands-on tool** for communities, community activists, local government. With a dual purpose.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-18.png" %}
+
+Very few people measure wellbeing in a transparent and accountable way:
+
+- ✅ involves **local authorities** — make this as a useful tool for policy making?
+- ✅ involves **citizens** — make them feel they have their say?
+- ✅ show them **results in their neighbourhood** and make them feel closer to policy makers
+
+We would like to **provide a framework for a similar survey** (than the Quality of Life survey) to be run across British and French cities.
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-19.png" %}
+
+While being on the field, we connected with communities. A few opportunities rose from these interactions:
+
+- **Jean Golding Institute**: they would be interested in participative citizen workshops, as way to learn about data making through the purpose of having their say
+- **Bristol City Hall**: an independant citizen sensing that feeds directly into their open data platform
+- **Open North**: they are about to research _urban resilience_ issues via innovative open data initiatives
+- **London School of Economics**: via the _Data & Society_ master and PhD researchers
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-20.png" %}
+
+We identified a set of next steps:
+
+1. **Survey**: designing questions to draw a picture of major ward concerns
+2. **Data collection framework**: possibly to be extended in a second phase with multidisciplinary researchers at Jean Golding Institute
+3. **Workshops**: live events in mediation venues (We the Curious, Cap Sciences, various community centres)
+
 {% include figure.html src="/assets/posts/mind-the-gaps-work-week-conclusions-page-21.png" %}
+
+Thank you for your time :-)
 
 # ODI feedbacks
 
