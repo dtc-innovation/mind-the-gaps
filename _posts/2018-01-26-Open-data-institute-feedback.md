@@ -1,7 +1,6 @@
 ---
 title: Open Data Institute - Feedback
 tags:
-- bristol
 - insights
 ---
 
