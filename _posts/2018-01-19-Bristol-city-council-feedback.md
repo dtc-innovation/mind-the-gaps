@@ -2,16 +2,16 @@
 title: Bristol City Council - Feedback
 tags:
 - bristol
-- feeback
+- insights
 ---
 
 **Context**
 
-The presentation took place on Friday Jan.19th at the end of our research week. 
+The presentation took place on Friday Jan.19th at the end of our research week.
 
-We used this as an opportunity to present our findings rather than a product or prototype. The week had given us new insights into the Bristol community and the open data terrain. 
+We used this as an opportunity to present our findings rather than a product or prototype. The week had given us new insights into the Bristol community and the open data terrain.
 
-In order to get the most out of our time in Bristol in contact with players on the field, we concocted an informal presentation using the content produced by the team. This would embody the "work in progress" nature of the work and give freedom to team members to input as they liked. 
+In order to get the most out of our time in Bristol in contact with players on the field, we concocted an informal presentation using the content produced by the team. This would embody the "work in progress" nature of the work and give freedom to team members to input as they liked.
 
 An opportunity to sense check and collect City Hall feedback.
 
@@ -26,7 +26,7 @@ In the proposal, Mind the Gaps was ‘a map aimed at solving city inequalities b
 After mapping the context (geographical, sociological, political), Mind the Gaps could be...
 
 * A sensitive, live, project close to citizens needs.
-* A data collection tool 
+* A data collection tool
 * Creates rich data sets about people and cities
 * A data visualisation
 * Participative
@@ -52,7 +52,7 @@ The newly elected Mayor of Bristol, Marvin Rees, is committed to reducing inequa
 
 With major cuts in funding happening on all areas, Matt warned us about a ‘feedback loop’ from citizens. The relationship with the council has eroded due to those budget cuts.
 
-The Council has to slowly become an enabler (of citizen-led initiatives) rather than a broker. 
+The Council has to slowly become an enabler (of citizen-led initiatives) rather than a broker.
 
 A lot of the work now has to go toward building those relationships and that trust.
 
@@ -93,11 +93,10 @@ The map / data visualisation could be displayed on screens within local governme
 
 * The iterative style of the research and presentation style.
 * The open format in which we work
-* Our sketches, would like to see more 
+* Our sketches, would like to see more
 
 **Watch out…**
 
 * Feedback loop
 * Council thinks<>Community needs
 * We don’t think we know… about the needs of citizens
-

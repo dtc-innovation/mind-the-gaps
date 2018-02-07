@@ -9,6 +9,7 @@ layout: default
 {% assign workshops=work_week | where_exp:"post", "post.tags contains 'workshop'" %}
 {% assign interviews=work_week | where_exp:"post", "post.tags contains 'interviews'" %}
 {% assign diary=work_week | where_exp:"post", "post.tags contains 'diary'" %}
+{% assign insights=work_week | where_exp:"post", "post.tags contains 'insights'" %}
 {% assign retrospectives=work_week | where_exp:"post", "post.tags contains 'retrospective'" %}
 {% assign conclusion=work_week | where_exp:"post", "post.tags contains 'conclusion'" | first %}
 
@@ -43,15 +44,15 @@ layout: default
   </article>
 
   <section>
-    <h2>📖 Diary</h2>
+    <h2>🔬 Insights</h2>
 
-    {% include posts-list-horizontal.html posts=diary %}
+    {% include posts-list-horizontal.html posts=insights %}
   </section>
 
   <section>
-    <h2>💬 Team Retrospectives</h2>
+    <h2>🎤 Interviews</h2>
 
-    {% include posts-list-horizontal.html posts=retrospectives %}
+    {% include posts-list-horizontal.html posts=interviews %}
   </section>
 
   <section>
@@ -61,9 +62,15 @@ layout: default
   </section>
 
   <section>
-    <h2>🎤 Interviews</h2>
+    <h2>📖 Diary</h2>
 
-    {% include posts-list-horizontal.html posts=interviews %}
+    {% include posts-list-horizontal.html posts=diary %}
+  </section>
+
+  <section>
+    <h2>💬 Team Retrospectives</h2>
+
+    {% include posts-list-horizontal.html posts=retrospectives %}
   </section>
 </section>
 

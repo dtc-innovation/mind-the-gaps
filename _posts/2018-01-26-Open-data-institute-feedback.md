@@ -2,7 +2,7 @@
 title: Open Data Institute - Feedback
 tags:
 - bristol
-- feedback
+- insights
 ---
 
 
@@ -28,9 +28,9 @@ For them, he most exciting part in the initial proposal was to highlight the pat
 
 (The challenge is every local government is going to have a different structure. This makes the project non-replicable.)
 
-We mentioned we saw great value and innovation in citizen sensing approaches — in data literacy, understanding the implications, in activism goals and in the variety of data sources the council takes into account to inform policy making. 
+We mentioned we saw great value and innovation in citizen sensing approaches — in data literacy, understanding the implications, in activism goals and in the variety of data sources the council takes into account to inform policy making.
 
-We chose to focus on how we could encourage and develop these initiatives, particularly around inequalities / quality of life / wellbeing in cities. 
+We chose to focus on how we could encourage and develop these initiatives, particularly around inequalities / quality of life / wellbeing in cities.
 
 So how can we make citizen sensing helpful and present to civil servants? How can we help them see the value of this?
 
@@ -41,8 +41,8 @@ The ODI is particularly interested in the Bristol-Bordeaux twin city duo.
 Suggested output for the project:
 
 * Rich ethnographic research
-* Prototype with user research 
-* Reflective report with a clearly outlined research methodology. 
+* Prototype with user research
+* Reflective report with a clearly outlined research methodology.
 
 They liked our open documentation and our project orientation.
 
