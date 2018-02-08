@@ -28,8 +28,8 @@ We then listed 3 words we found representative what _Mind the Gaps_ is about:
 We bounced on these words to write several _one liners_. We then collated our trials into the following and satisfying description of the project:
 
 > Mind the Gaps is a thought provoking _experiment_ to bring citizen sensing closer to policy making. It is a _system_ for open data collection about well-being and inequalities in cities.
-> 
+>
 > It will invite citizens to paint a more comprehensive picture of their experience of their neighbourhood.
-> 
+>
 > It adds qualitative and granular data to existing robust datasets.
 > This will aim to stimulate open discussions and help policy makers build more resilient cities.
