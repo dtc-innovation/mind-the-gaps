@@ -15,7 +15,7 @@ Here are the questions we asked to ourselves after the end of the day:
 
 - asking ourselves the hard questions about what is the _right_ prototype
 - working at Look Mum No Hands
-- all the discovery about data around Wellbeing and quality of life
+- all the discovery about data around Wellbeing and quality of life (+1)
 - the sketching session (+1)
 - cowriting in the morning (Mind the Gaps is...)(+1)
 - the conversations with the people in Bordeaux (+1)
