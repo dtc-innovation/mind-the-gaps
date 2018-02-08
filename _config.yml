@@ -1,7 +1,12 @@
 title: Mind the Gaps
 email: mind-the-gaps@framalistes.org
-description: >-
-  _Mind the Gaps_ is an encouraging map aimed at highlighting city inequalities and possible pathways to their resolutions.
+description: |
+  Mind the Gaps is a thought provoking **experiment** to bring citizen sensing closer to policy making. It is a **system** for open data collection about well-being and inequalities in cities.
+
+  It will invite citizens to **paint a more comprehensive picture** of their experience of their neighbourhood.
+
+  It adds qualitative and granular data to existing robust datasets.
+  This will aim to stimulate open discussions and help policy makers build more resilient cities.
 baseurl: "/mind-the-gaps" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en_GB

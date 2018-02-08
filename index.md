@@ -7,6 +7,6 @@ layout: home
 
 {{ site.description }}
 
-You can [subscribe to project updates](#subscribe), have a look at the [the project outcomes]({{ '/outcome/' | relative_url }}), the [about page]({{ '/about/' | relative_url }}) or even the [GitHub Project page]({{ site.github_project }}).
+📬 [subscribe to project updates](#subscribe), 👀 learn about the [the project outcomes]({{ '/outcome/' | relative_url }}) or 🤓 dig into the [GitHub project page]({{ site.github_project }}).
 
-See you around!
+Thanks for looking around!
