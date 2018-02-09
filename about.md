@@ -12,6 +12,17 @@ Its **intent** is to become an encouraging map aimed at highlighting city inequa
 
 We feel more comforable to work in the open with an emerging **approach**.
 
+## Research Week
+
+Our data collective ran a work week in Bristol from Jan 15th to Jan 19th 2018.
+
+The collective was formed of 4 persons:
+
+* [Alaine Burns](https://www.behance.net/OrangegnarO)
+* [Noémie Girard](http://noemiegirard.co)
+* [Romain Crestey](https://github.com/ioiurson) ([drawings](https://cargocollective.com/ourson))
+* [Thomas Parisot](https://dtc-innovation.org)
+
 
 [Open Data Institute (ODI)]: https://theodi.org/
 [dtc innovation]: https://dtc-innovation.org/

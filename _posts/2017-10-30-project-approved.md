@@ -1,5 +1,7 @@
 ---
 title: Project proposal approved
+tags:
+  - event
 ---
 
 The [project proposal]({{ '/proposal/' | relative_url }}) has been approved! 🙌

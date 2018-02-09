@@ -3,15 +3,18 @@ layout: default
 ---
 
 {% assign bristol = site.pages | where: 'title', 'Bristol' | first %}
-{% assign early_posts=site.posts | where_exp:"post", "post.date < site.work_week1_date" %}
-{% assign recent_posts=site.posts | where_exp:"post", "post.date > site.recent_posts_since" %}
-{% assign work_week=site.posts | where_exp:"post", "post.tags contains 'bristol'" | sort: 'date' %}
-{% assign workshops=work_week | where_exp:"post", "post.tags contains 'workshop'" %}
-{% assign interviews=work_week | where_exp:"post", "post.tags contains 'interviews'" %}
-{% assign diary=work_week | where_exp:"post", "post.tags contains 'diary'" %}
-{% assign insights=work_week | where_exp:"post", "post.tags contains 'insights'" %}
-{% assign retrospectives=work_week | where_exp:"post", "post.tags contains 'retrospective'" %}
-{% assign conclusion=work_week | where_exp:"post", "post.tags contains 'conclusion'" | first %}
+{% assign bordeaux = site.pages | where: 'title', 'Bordeaux' | first %}
+
+{% assign early_posts=site.posts | where_exp:"post", "post.date < site.milestones.work_week_start" %}
+{% assign recent_posts=site.posts | slice: 0,2 %}
+{% assign work=site.posts | where_exp:"post", "post.date >= site.milestones.work_week_start" %}
+{% assign workshops=work | where_exp:"post", "post.tags contains 'workshop'" %}
+{% assign interviews=work | where_exp:"post", "post.tags contains 'interviews'" %}
+{% assign events=work | where_exp:"post", "post.tags contains 'event'" %}
+{% assign diary=work | where_exp:"post", "post.tags contains 'diary'" %}
+{% assign insights=work | where_exp:"post", "post.tags contains 'insights'" %}
+{% assign retrospectives=work | where_exp:"post", "post.tags contains 'retrospective'" %}
+{% assign conclusion=work | where_exp:"post", "post.tags contains 'conclusion'" | first %}
 
 <section class="intro">
   {{ content }}
@@ -23,10 +26,10 @@ layout: default
   {% include posts-list.html posts=recent_posts %}
 </section>
 
-<section class="work-week">
-  <header>
-    <h1>⛺️ A week of research in <a href="{{ bristol.url | relative_url }}">Bristol</a></h1>
-  </header>
+<section class="work">
+  <!-- <header>
+    <h1>⛺️ What we researched so far</h1>
+  </header> -->
 
   <article>
     <p>
@@ -38,7 +41,8 @@ layout: default
 
     <aside>
       <ul>
-        <li>🗺 <a href="{{ bristol.url | relative_url }}#resources">Places, people and projects</a></li>
+        <li><a href="{{ bristol.url | relative_url }}#resources">📍 Bristol resources</a></li>
+        <li><a href="{{ bordeaux.url | relative_url }}#resources">📍 Bordeaux resources</a></li>
       </ul>
     </aside>
   </article>
@@ -71,6 +75,12 @@ layout: default
     <h2>💬 Team Retrospectives</h2>
 
     {% include posts-list-horizontal.html posts=retrospectives %}
+  </section>
+
+  <section>
+    <h2>🎉 Events</h2>
+
+    {% include posts-list-horizontal.html posts=events %}
   </section>
 </section>
 

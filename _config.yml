@@ -22,8 +22,16 @@ plugins:
   - jekyll-seo-tag
 
 timezone: Europe/London
-work_week1_date: 2018-01-14T00:00:00
-recent_posts_since: 2018-01-27T00:00:00
+milestones:
+  work_week_start: 2018-01-14T00:00:00
+  work_week_end: 2018-01-19T20:00:00
+
+header_pages:
+  - impact-map.md
+  - proposal.md
+  - outcomes.md
+  - accountability.md
+  - about.md
 
 exclude:
   - Gemfile
