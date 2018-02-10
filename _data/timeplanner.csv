@@ -1,94 +1,97 @@
 "Day","Time","Activity","People","Location","Completed","Notes"
-"Sunday","19:00","Meet and greet + lunch","Our Team","Airbnb","Done",
-"Sunday","21:00","Timeline workshop","Our Team","Airbnb","Done","[See post](https://dtc-innovation.github.io/mind-the-gaps/2018/01/14/timeline.html)"
+2018-01-14,"19:00","Meet and greet + lunch","Our Team","Airbnb","Done",
+2018-01-14,"21:00","Timeline workshop","Our Team","Airbnb","Done","[See post](https://dtc-innovation.github.io/mind-the-gaps/2018/01/14/timeline.html)"
 ,,,,,,
-"Monday","09:30","Kick Off","Our Team, Kevin","City Hall","Done","See diary"
-"Monday","10:15","Intro Session","Our Team, Matt","City Hall","Done","See Diary"
-"Monday","11:00","Team Alignment Excercise","Our Team","City Hall","Done","See Diary"
-"Monday","13:00","Lunch","Our Team","City Hall","13:30",
-"Monday","14:30","Into with Phil-QoLS","Our Team, Kevin, Phil","City Hall","Done","See Diary"
-"Monday","15:30","Stratgy Meeting","Our Team, Kevin, James, Rob","City Hall","Done","See Diary"
-"Monday","16:00","Team Coding","Our Team","City Hall","Done",
-"Monday","17:00","Retrospective","Our Team","City Hall","Done","See posts file"
-"Monday","18:00","Finish",,,"18:30",
+2018-01-15,"09:30","Kick Off","Our Team, Kevin","City Hall","Done","See diary"
+2018-01-15,"10:15","Intro Session","Our Team, Matt","City Hall","Done","See Diary"
+2018-01-15,"11:00","Team Alignment Excercise","Our Team","City Hall","Done","See Diary"
+2018-01-15,"13:00","Lunch","Our Team","City Hall","13:30",
+2018-01-15,"14:30","Into with Phil-QoLS","Our Team, Kevin, Phil","City Hall","Done","See Diary"
+2018-01-15,"15:30","Stratgy Meeting","Our Team, Kevin, James, Rob","City Hall","Done","See Diary"
+2018-01-15,"16:00","Team Coding","Our Team","City Hall","Done",
+2018-01-15,"17:00","Retrospective","Our Team","City Hall","Done","See posts file"
+2018-01-15,"18:00","Finish",,,"18:30",
 ,,,,,,
-"Tuesday","09:30","External Comms","Our Team","The Watershed","Done",
-"Tuesday","10:00","Data Vis Sharing Session","Our Team","The Watershed","Done","see google doc"
-"Tuesday","10:45","Reviwe and Map Inteviews","Our Team","The Watershed","Done","See diary, map"
-"Tuesday","13:00","Lunch","Our Team","Wokiyo","Done","See map"
-"Tuesday","14:00","Field Work - Walk around","Our Team","Southville","Done","See map"
-"Tuesday","15:00","Co-Writing","Our Team","BS3 Community Center","Done","See diary"
-"Tuesday","15:30","Field Work - Community Conversations","Our Team","BS3 Community Center","Done",
-"Tuesday","16:30","Mapping the Field Session","Our Team","City Hall","17:00",
-"Tuesday","18:00","Open Data Platform Launch","Our Team, Matt, Open Data Community","City Hall","Done",
-"Tuesday","20:00","Break for dinner","Our Team","Clifton Hill","Done",
-"Tuesday","22:00","Retrospective","Our Team","Airbnb","Done","See posts file"
-"Tuesday","23:00","Finish",,,,
+2018-01-16,"09:30","External Comms","Our Team","The Watershed","Done",
+2018-01-16,"10:00","Data Vis Sharing Session","Our Team","The Watershed","Done","see google doc"
+2018-01-16,"10:45","Reviwe and Map Inteviews","Our Team","The Watershed","Done","See diary, map"
+2018-01-16,"13:00","Lunch","Our Team","Wokiyo","Done","See map"
+2018-01-16,"14:00","Field Work - Walk around","Our Team","Southville","Done","See map"
+2018-01-16,"15:00","Co-Writing","Our Team","BS3 Community Center","Done","See diary"
+2018-01-16,"15:30","Field Work - Community Conversations","Our Team","BS3 Community Center","Done",
+2018-01-16,"16:30","Mapping the Field Session","Our Team","City Hall","17:00",
+2018-01-16,"18:00","Open Data Platform Launch","Our Team, Matt, Open Data Community","City Hall","Done",
+2018-01-16,"20:00","Break for dinner","Our Team","Clifton Hill","Done",
+2018-01-16,"22:00","Retrospective","Our Team","Airbnb","Done","See posts file"
+2018-01-16,"23:00","Finish",,,,
 ,,,,,,
-"Wednesday","09:00","External Comms","Our Team","Airbnb","Done",
-"Wednesday","09:45","Planning for the day","Our Team","City Hall","Done",
-"Wednesday","10:00","Individual data research, share","Our Team","City Hall","Done","See diary"
-"Wednesday","12:00","Documentation","Our Team","City Hall","Done",
-"Wednesday","13:00","Lunch with Victoria","Our Team","Watershed","13:45",
-"Wednesday","14:00","Discussion","Our Team","Watershed","14:15",
-"Wednesday","14:30","Ideation Sketches Round 1","Our Team","Watershed","done",
-"Wednesday","15:30","Ideation Sketches Round 2","Our Team","Watershed","13:45","done"
-"Wednesday","16:30","Project Identification Discussion","Our Team","Watershed","13:45","done"
-"Wednesday","17:45","Break for dinner","Our Team","Watershed",,
-"Wednesday","20:00","Documentation","Our Team","Airbnb",,
-"Wednesday","21:00","Co-writing","Our Team","Airbnb",,
-"Wednesday","21:30","Retrospective","Our Team","Airbnb",,"See posts file"
+2018-01-17,"09:00","External Comms","Our Team","Airbnb","Done",
+2018-01-17,"09:45","Planning for the day","Our Team","City Hall","Done",
+2018-01-17,"10:00","Individual data research, share","Our Team","City Hall","Done","See diary"
+2018-01-17,"12:00","Documentation","Our Team","City Hall","Done",
+2018-01-17,"13:00","Lunch with Victoria","Our Team","Watershed","13:45",
+2018-01-17,"14:00","Discussion","Our Team","Watershed","14:15",
+2018-01-17,"14:30","Ideation Sketches Round 1","Our Team","Watershed","done",
+2018-01-17,"15:30","Ideation Sketches Round 2","Our Team","Watershed","13:45","done"
+2018-01-17,"16:30","Project Identification Discussion","Our Team","Watershed","13:45","done"
+2018-01-17,"17:45","Break for dinner","Our Team","Watershed",,
+2018-01-17,"20:00","Documentation","Our Team","Airbnb",,
+2018-01-17,"21:00","Co-writing","Our Team","Airbnb",,
+2018-01-17,"21:30","Retrospective","Our Team","Airbnb",,"See posts file"
 ,,,,,,
-"Thursday","09:00","Tour, Intro","Our Team, Seamus","Data Dome","Done",
-"Thursday","10:00","Planning for the day","Our Team","Society Café","Done",
-"Thursday","11:00","Knowle West Media Centre visit","Our Team","KWMC","Done",
-"Thursday","12:00","The Factory visit","Our Team","KWMC The Factory","Done",
-"Thursday","13:15","Lunch","Our Team","Filwood Community Centre","Done",
-"Thursday","14:00","Framing Friday demo presentation","Our Team","Filwood Community Centre","Done",
-"Thursday","14:45","User interview","Alaine","Filwood Community Centre","Done",
-"Thursday","00:00",,,,,
-"Thursday","16:20","User interviews","Alaine, Romain","Harbour Walk","Done",
-"Thursday","17:30","Type User Interviews","Alaine","Airbnb","Done",
-"Thursday","17:30","Writing Diary Day 1","Noémie","Airbnb","Done",
-"Thursday","17:30","Writing ","Thomas","Airbnb","Done",
-"Thursday","20:30","Retrospective","Our Team","Airbnb","Done",
-"Thursday","21:00","Retrospective ","Our Team","Airbnb","Done",
+2018-01-18,"09:00","Tour, Intro","Our Team, Seamus","Data Dome","Done",
+2018-01-18,"10:00","Planning for the day","Our Team","Society Café","Done",
+2018-01-18,"11:00","Knowle West Media Centre visit","Our Team","KWMC","Done",
+2018-01-18,"12:00","The Factory visit","Our Team","KWMC The Factory","Done",
+2018-01-18,"13:15","Lunch","Our Team","Filwood Community Centre","Done",
+2018-01-18,"14:00","Framing Friday demo presentation","Our Team","Filwood Community Centre","Done",
+2018-01-18,"14:45","User interview","Alaine","Filwood Community Centre","Done",
+2018-01-18,"00:00",,,,,
+2018-01-18,"16:20","User interviews","Alaine, Romain","Harbour Walk","Done",
+2018-01-18,"17:30","Type User Interviews","Alaine","Airbnb","Done",
+2018-01-18,"17:30","Writing Diary Day 1","Noémie","Airbnb","Done",
+2018-01-18,"17:30","Writing ","Thomas","Airbnb","Done",
+2018-01-18,"20:30","Retrospective","Our Team","Airbnb","Done",
+2018-01-18,"21:00","Retrospective ","Our Team","Airbnb","Done",
 ,,,,,,
-"Friday","08:00","Outlining this afternoon presentation","Our Team","Airbnb","Done",
-"Friday","10:30","Interview, John, Bristol Health Partners","Alaine, Noémie","Cafe du Jour","Done",
-"Friday","10:30","Interview, Voscur","Romain, Thomas","Voscur","Aborted",
-"Friday","11:30","Interview, Jean Golding Inst.","Our Team, Patrica","Jean Golding Inst.","Done",
-"Friday","13:00","Lunch (pizza time!)","Our Team","Pinkmans","Done",
-"Friday","14:00","Presentation","Our Team, Matt, Kevin","City Hall","Done",
-"Friday","16:00","Retrospective","Alaine, Noémie, Thomas","City Hall","Done",
-"Friday","19:30","Inbound train journey","Alaine, Noémie, Thomas","Bristol Temple Meads","Done",
+2018-01-19,"08:00","Outlining this afternoon presentation","Our Team","Airbnb","Done",
+2018-01-19,"10:30","Interview, John, Bristol Health Partners","Alaine, Noémie","Cafe du Jour","Done",
+2018-01-19,"10:30","Interview, Voscur","Romain, Thomas","Voscur","Aborted",
+2018-01-19,"11:30","Interview, Jean Golding Inst.","Our Team, Patrica","Jean Golding Inst.","Done",
+2018-01-19,"13:00","Lunch (pizza time!)","Our Team","Pinkmans","Done",
+2018-01-19,"14:00","Presentation","Our Team, Matt, Kevin","City Hall","Done",
+2018-01-19,"16:00","Retrospective","Alaine, Noémie, Thomas","City Hall","Done",
+2018-01-19,"19:30","Inbound train journey","Alaine, Noémie, Thomas","Bristol Temple Meads","Done",
 ,,,,,,
-"Friday","16:00","Presentation to ODI","Alaine, Noémie, Thomas","City Hall","Done",
-"Friday","17:00","Finish","Alaine, Noémie, Thomas","Bristol Temple Meads","17.45",
+2018-01-26,"16:00","Presentation to ODI","Alaine, Noémie, Thomas","ODI+Remote","Done",
+2018-01-26,"17:00","Finish","Alaine, Noémie, Thomas","ODI+Remote","17.45",
 ,,,,,,
-"Tuesday","09:30","Reflections on the Project","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","10:00","Day Planning","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","10:20","Project Identification","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","11:00","Project Mapping","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","13:00","Lunch","Alaine, Noémie, Thomas","Barbican Center","13.30",
-"Tuesday","14:00","Administration","Alaine, Noémie, Thomas","Barbican Center","14.15",
-"Tuesday","15:00","External Communication","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","16:00","Write up Feedback","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","17:00","Update website","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","17:00","Update website","Alaine, Noémie, Thomas","Barbican Center","Done",
-"Tuesday","18:00","Update website","Alaine, Noémie, Thomas","Barbican Center","18.45",
-"Tuesday","19:00","Finish","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"09:30","Reflections on the Project","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"10:00","Day Planning","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"10:20","Project Identification","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"11:00","Project Mapping","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"13:00","Lunch","Alaine, Noémie, Thomas","Barbican Center","13.30",
+2018-02-06,"14:00","Administration","Alaine, Noémie, Thomas","Barbican Center","14.15",
+2018-02-06,"15:00","External Communication","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"16:00","Write up Feedback","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"17:00","Update website","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"17:00","Update website","Alaine, Noémie, Thomas","Barbican Center","Done",
+2018-02-06,"18:00","Update website","Alaine, Noémie, Thomas","Barbican Center","18.45",
+2018-02-06,"19:00","Finish","Alaine, Noémie, Thomas","Barbican Center","Done",
 ,,,,,,
-"Wednesday","09:30","Notes","Noémie","Barbican Center","Done",
-"Wednesday","09:30","Update websitet","Thomas","Barbican Center","Done",
-"Wednesday","09:30","External Comms","Alaine","Barbican Center","Done",
-"Wednesday","12:00","Publish Map","Alaine","Barbican Center","Done",
-"Wednesday","13:00","Lunch","Alaine, Noémie, Thomas","Barbican Center","13.45",
-"Wednesday","14:00","Bordeaux Research","Alaine, Noémie, Thomas","Impact Hub","14.45",
-"Wednesday","15:00","Call with Tom, ODI","Alaine, Noémie, Thomas","Impact Hub","Done",
-"Wednesday","15:30","Bordeaux Research","Alaine, Noémie, Thomas","Impact Hub","Done",
-"Wednesday","16:30","Aims and Objectives for Fridays Catch up","Alaine, Noémie, Thomas","Impact Hub","Done",
-"Wednesday","17:00","Retrospective","Alaine, Noémie, Thomas","Impact Hub","Done",
-"Wednesday","17:15","External Comms","Alaine, Noémie, Thomas","Impact Hub","Done",
-"Wednesday","18:00","Finish","Alaine, Noémie, Thomas","Impact Hub","Done",
-
+2018-02-07,"09:30","Notes","Noémie","Barbican Center","Done",
+2018-02-07,"09:30","Update websitet","Thomas","Barbican Center","Done",
+2018-02-07,"09:30","External Comms","Alaine","Barbican Center","Done",
+2018-02-07,"12:00","Publish Map","Alaine","Barbican Center","Done",
+2018-02-07,"13:00","Lunch","Alaine, Noémie, Thomas","Barbican Center","13.45",
+2018-02-07,"14:00","Bordeaux Research","Alaine, Noémie, Thomas","Impact Hub","14.45",
+2018-02-07,"15:00","Call with Tom, ODI","Alaine, Noémie, Thomas","Impact Hub","Done",
+2018-02-07,"15:30","Bordeaux Research","Alaine, Noémie, Thomas","Impact Hub","Done",
+2018-02-07,"16:30","Aims and Objectives for Fridays Catch up","Alaine, Noémie, Thomas","Impact Hub","Done",
+2018-02-07,"17:00","Retrospective","Alaine, Noémie, Thomas","Impact Hub","Done",
+2018-02-07,"17:15","External Comms","Alaine, Noémie, Thomas","Impact Hub","Done",
+2018-02-07,"18:00","Finish","Alaine, Noémie, Thomas","Impact Hub","Done",
+,,,,,,
+2018-02-09,"14:00","Presentation preparation","Noémie, Thomas","Home","15:30",
+2018-02-09,"16:00","Presentation to ODI","Alaine, Noémie, Thomas","ODI","Done",
+2018-02-09,"17:00","Finish","Alaine, Noémie, Thomas","ODI","17.15",
