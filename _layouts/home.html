@@ -2,8 +2,7 @@
 layout: default
 ---
 
-{% assign bristol = site.pages | where: 'title', 'Bristol' | first %}
-{% assign bordeaux = site.pages | where: 'title', 'Bordeaux' | first %}
+{% assign cities = site.pages | where: 'layout', 'city' %}
 
 {% assign early_posts=site.posts | where_exp:"post", "post.date < site.milestones.work_week_start" %}
 {% assign recent_posts=site.posts | slice: 0,2 %}
@@ -12,9 +11,10 @@ layout: default
 {% assign interviews=work | where_exp:"post", "post.tags contains 'interviews'" %}
 {% assign events=work | where_exp:"post", "post.tags contains 'event'" %}
 {% assign diary=work | where_exp:"post", "post.tags contains 'diary'" %}
-{% assign insights=work | where_exp:"post", "post.tags contains 'insights'" %}
+{% assign presentations=work | where_exp:"post", "post.tags contains 'presentation'" %}
+{% assign insights=work | where_exp:"post", "post.tags contains 'insights'" | concat: presentations | sort: 'date' | reverse %}
 {% assign retrospectives=work | where_exp:"post", "post.tags contains 'retrospective'" %}
-{% assign conclusion=work | where_exp:"post", "post.tags contains 'conclusion'" | first %}
+{% assign last_presentation=insights | first %}
 
 <section class="intro">
   {{ content }}
@@ -33,22 +33,23 @@ layout: default
 
   <article>
     <p>
-      <a href="{{ conclusion.url | relative_url }}">
+      <a href="{{ last_presentation.url | relative_url }}">
         👓
-        <strong>Read the conclusions</strong> of our first week of research on the field
-      </a>.
+        <strong>Read our latest</strong> {{ last_presentation.title | split: '•' | first }} ({{ last_presentation.date | date_to_string }})
+      </a>
     </p>
 
     <aside>
       <ul>
-        <li><a href="{{ bristol.url | relative_url }}#resources">📍 Bristol resources</a></li>
-        <li><a href="{{ bordeaux.url | relative_url }}#resources">📍 Bordeaux resources</a></li>
+        {% for city in cities %}
+        <li><a href="{{ city.url | relative_url }}#resources">📍 {{ city.title }} resources</a></li>
+        {% endfor %}
       </ul>
     </aside>
   </article>
 
   <section>
-    <h2>🔬 Insights</h2>
+    <h2>🔬 Insights &amp; Presentations</h2>
 
     {% include posts-list-horizontal.html posts=insights %}
   </section>
