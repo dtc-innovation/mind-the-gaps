@@ -27,6 +27,8 @@ Here are the questions we asked to ourselves after the end of the day:
 - Witnessing the dwindling 'to do' pile
 - Enjoyed remodelling the website super easily thanks to the system we adopted. It supports the work we produce well.
 
+{% include figure.html src="/assets/posts/2018-02-07-todo-stack.jpg" %}
+
 
 # To change
 

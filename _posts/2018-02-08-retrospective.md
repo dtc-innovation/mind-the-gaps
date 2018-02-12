@@ -10,6 +10,7 @@ Here are the questions we asked to ourselves after the end of the day:
 2. What would you like to change tomorrow?
 3. Is there something slowing you down?
 
+{% include figure.html src="/assets/posts/2018-02-08-sketching.jpg" %}
 
 # Enjoy
 
@@ -24,9 +25,13 @@ Here are the questions we asked to ourselves after the end of the day:
 - Phil's response gave me great ease while creating the survey questions
 - the Typeform trial with branched flows
 
+{% include figure.html src="/assets/posts/2018-02-08-toolbox.jpg" %}
+
+
 # To change
 
 - the afternoon alignment was effortful and next time, I'd like to get my hands dirty sooner (trying Typeform etc.)(+1)
+
 
 # Slowing me down
 
