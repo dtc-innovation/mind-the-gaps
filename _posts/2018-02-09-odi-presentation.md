@@ -163,4 +163,31 @@ In the long term will help instigate a cultural shift within City Halls leading 
 
 # ODI insights
 
-TBD.
+Presentation at UK/France Open data Summit 
+Stakeholders from France and the UK interested in data.
+
+Workshop proposal the Data for development festival - to be determined.
+Bristol could be a replacement for the display in the Data dome mentioned in the contract. 
+
+Thick versus thin data.
+
+What is the best way to collect this information - face to face, best community engagement method.
+
+Similar and complementary to other programs run within the ODI - Service design in local authorities,
+Designing in the open. Data ethics canvas. Ecosystem mapping visual language.
+
+The importance of internal advocacy and finding the right people when working within local authorities.
+
+We should document our research practice and methodology.
+
+The point of open technology is that it’s not an authority, it’s living and adaptable.
+There’s something quite political about the project not being ‘final’.
+
+The Mind the Gaps toolkit could also have a physical component. People are often attracted to that.
+Integrate people’s feedback on the toolkit: what is the best way to collect this information?
+The most effective being face to face communication, then trickling down to independently run surveys.
+
+Mind the Gaps could also offer interventions for workshops - running your data.
+Imagine ways to enable public conversation - reminiscent of Rebecca Ross’s project [London is changing](http://www.londonischanging.org/).
+
+Branding: explaining what citizen sensing is.
