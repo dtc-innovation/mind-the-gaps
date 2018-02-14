@@ -27,10 +27,11 @@ milestones:
   work_week_end: 2018-01-19T20:00:00
 
 header_pages:
+  - survey.md
   - impact-map.md
   - proposal.md
   - outcomes.md
-  - accountability.md
+#  - accountability.md
   - about.md
 
 exclude:
