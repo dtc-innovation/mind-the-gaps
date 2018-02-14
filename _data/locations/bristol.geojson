@@ -5,12 +5,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-2.5954064000000017, 51.4517754]
+        "coordinates": [-2.6020859999999857, 51.45160000000001]
       },
       "properties": {
         "marker-symbol": "library",
-        "name": "Bristol Free Library",
-        "address": "Bristol BS1 4DT"
+        "name": "Bristol Central Library",
+        "address": "College Green, Bristol BS1 5TL, UK"
       }
     },
     {
@@ -179,6 +179,66 @@
         "marker-symbol": "town",
         "name": "Bristol Data Dome",
         "address": "We the Curious, Anchor Rd, Harbourside, Bristol BS1 5DB, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5732686999999714, 51.4661065]
+      },
+      "properties": {
+        "marker-symbol": "library",
+        "name": "Junction 3 Library",
+        "address": "Lower Ashley Rd, Bristol BS5 0FJ, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.601663799999983, 51.4543828]
+      },
+      "properties": {
+        "marker-symbol": "farm",
+        "name": "Folk House",
+        "address": "40A Park St, Bristol BS1 5JG, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.572926499999994, 51.4680132]
+      },
+      "properties": {
+        "marker-symbol": "town",
+        "name": "St Werburghs Community Centre",
+        "address": "Horley Rd, Bristol BS2 9TJ, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5785132999999405, 51.4689491]
+      },
+      "properties": {
+        "marker-symbol": "town",
+        "name": "The Scrap Store",
+        "address": "Sevier Street, Avon, Bristol BS2 9LB, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.578280100000029, 51.4743349]
+      },
+      "properties": {
+        "marker-symbol": "farm",
+        "name": "St Werburghs City Farm Cafe",
+        "address": "Watercress Rd, Bristol BS2 9YJ, UK"
       }
     }
   ]
