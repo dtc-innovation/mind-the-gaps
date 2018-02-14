@@ -46,6 +46,7 @@
       },
       "properties": {
         "marker-symbol": "rocket",
+        "marker-color": "#ccc",
         "name": "Hackerspace",
         "address": "G11, BV Studios, 37 Philip St, Bristol BS3 4EA, UK"
       }
@@ -70,6 +71,7 @@
       },
       "properties": {
         "marker-symbol": "town",
+        "marker-color": "#ccc",
         "name": "Windmill Hill Community Association and Social Club",
         "address": "Vivian St, Bristol BS3 4LW"
       }
@@ -82,6 +84,7 @@
       },
       "properties": {
         "marker-symbol": "farm",
+        "marker-color": "#ccc",
         "name": "Windmill Hill City Farm",
         "address": "Philip St, Bristol BS3 4EA"
       }
@@ -155,6 +158,7 @@
       },
       "properties": {
         "marker-symbol": "building",
+        "marker-color": "#ccc",
         "name": "re:work",
         "address": "8 Filwood Broadway, Bristol BS4 1JN"
       }
@@ -254,6 +258,30 @@
         "marker-symbol": "heart",
         "name": "Airbnb",
         "address": "3A Alma Vale Rd, Bristol BS8 2HL, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.566220238804817, 51.467500207609554]
+      },
+      "properties": {
+        "marker-symbol": "rail",
+        "name": "Stapleton Road Station",
+        "address": "11B Henrietta St, Bristol BS5 6HU, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5805546999999933, 51.44971719999999]
+      },
+      "properties": {
+        "marker-symbol": "rail",
+        "name": "Bristol Temple Meads Station",
+        "address": "Bristol BS1 6QF, UK"
       }
     }
   ]
