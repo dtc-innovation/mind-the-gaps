@@ -118,6 +118,7 @@
       },
       "properties": {
         "marker-symbol": "town",
+        "marker-color": "#ccc",
         "name": "Voscur",
         "address": "Royal Oak House, Royal Oak Avenue, Bristol, BS1 4GB"
       }
@@ -241,6 +242,18 @@
         "marker-color": "#ccc",
         "name": "St Werburghs City Farm Cafe",
         "address": "Watercress Rd, Bristol BS2 9YJ, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.615322600000013, 51.4619632]
+      },
+      "properties": {
+        "marker-symbol": "heart",
+        "name": "Airbnb",
+        "address": "3A Alma Vale Rd, Bristol BS8 2HL, UK"
       }
     }
   ]
