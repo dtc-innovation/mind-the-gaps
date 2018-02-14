@@ -9,6 +9,7 @@
       },
       "properties": {
         "marker-symbol": "library",
+        "fill": "#ccc",
         "name": "Bristol Central Library",
         "address": "College Green, Bristol BS1 5TL, UK"
       }
@@ -237,6 +238,7 @@
       },
       "properties": {
         "marker-symbol": "farm",
+        "fill": "#ccc",
         "name": "St Werburghs City Farm Cafe",
         "address": "Watercress Rd, Bristol BS2 9YJ, UK"
       }
