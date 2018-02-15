@@ -1,5 +1,6 @@
 ---
 title: Retrospective of the day
+image: /assets/posts/2018-02-12-planning.jpg
 tags:
 - retrospective
 ---
