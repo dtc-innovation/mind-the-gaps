@@ -125,6 +125,18 @@ figure {
 }
 
 table {
+	caption {
+		border-left: 3px solid $brand-color;
+		font-weight: bold;
+		padding: .5em 0 .5em 1em;
+		text-align: left;
+
+		.currency,
+		.amount {
+			font-family: monospace;
+		}
+	}
+
   tbody {
     td {
       padding: .5em;

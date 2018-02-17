@@ -23,7 +23,20 @@ The collective was formed of 4 persons:
 * [Romain Crestey](https://github.com/ioiurson) ([drawings](https://cargocollective.com/ourson))
 * [Thomas Parisot](https://dtc-innovation.org)
 
+## Money Accountability
 
+We value public money and thus, we want to be transparent on how we spent it to develop the project.
+
+{% include table.html data=site.data.spendings.odi-grant money_sum='Amount' %}
+
+## Time Accountability
+
+This is how [we spent our time][timeplanner].
+
+{% include table.html data=site.data.timeplanner %}
+
+
+[timeplanner]: https://github.com/dtc-innovation/mind-the-gaps/blob/master/_data/timeplanner.csv
 [Open Data Institute (ODI)]: https://theodi.org/
 [dtc innovation]: https://dtc-innovation.org/
 [Alaine Burns]: https://www.linkedin.com/in/alaine-burns-7147592b

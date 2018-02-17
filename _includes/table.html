@@ -1,4 +1,19 @@
 <table>
+  {% if include.money_sum %}
+    {% assign sum = 0 %}
+    {%- for row in include.data -%}
+    {% assign amount = row[include.money_sum] | remove:'€' | remove:'£' | plus:0 %}
+    {% assign currency = row[include.money_sum] | slice:0 %}
+    {% if currency == '€' %}
+    {% assign amount = amount | times: 0.9 %}
+    {% endif %}
+    {% assign sum = sum | plus: amount %}
+    {%- endfor -%}
+    <caption>
+      Total money spent so far:
+      <span class="amount">£{{ sum | ceil }}</span>.
+    </caption>
+  {% endif %}
   <thead>
     <tr>
     {% for col in include.data[0] %}
