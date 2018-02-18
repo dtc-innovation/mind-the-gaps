@@ -11,7 +11,7 @@
     {%- endfor -%}
     <caption>
       Total money spent so far:
-      <span class="amount">£{{ sum | ceil }}</span>.
+      <span class="amount">{{ sum | times: 100 | money: 'GBP' }}</span>.
     </caption>
   {% endif %}
   <thead>
