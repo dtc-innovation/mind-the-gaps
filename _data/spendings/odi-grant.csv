@@ -8,46 +8,75 @@ Date,Amount,Provider,Type,Title,Description
 2018-01-15,€20.11,SNCF,Transport,Romain Train ticket,Bordeaux to Toulouse
 2018-01-15,£03.00,Cash Hall,"Food,Drinks",Refreshments,
 2018-01-15,£26.40,Cash Hall,Food,Lunch in City Hall,Salad and Lasagne for 4 persons
-2018-01-15,£550.00,Thomas,Work,Daily invoice,
-2018-01-15,€500.00,Romain,Work,Daily invoice,
-2018-01-15,£400.00,Alaine,Work,Daily invoice,
-2018-01-15,€00.00,Noémie,Work,Daily invoice,
+2018-01-15,£550.00,Thomas,Work,Daily effort rate,
+2018-01-15,€500.00,Romain,Work,Daily effort rate,
+2018-01-15,£400.00,Alaine,Work,Daily effort rate,
+2018-01-15,€400.00,Noémie,Work,Daily effort rate,
 2018-01-16,£29.80,Wokyko,Food,Lunch,Green curry and chicken noodles for 4 persons
-2018-01-16,£00.00,Thomas,Work,Daily invoice,
-2018-01-16,€500.00,Romain,Work,Daily invoice,
-2018-01-16,£400.00,Alaine,Work,Daily invoice,
-2018-01-16,€00.00,Noémie,Work,Daily invoice,
+2018-01-16,£550.00,Thomas,Work,Daily effort rate,
+2018-01-16,€500.00,Romain,Work,Daily effort rate,
+2018-01-16,£400.00,Alaine,Work,Daily effort rate,
+2018-01-16,€400.00,Noémie,Work,Daily effort rate,
 2018-01-17,£14.60,Cash Hall,"Food,Drinks",Refreshments,Coffee and snacks for 4 persons
 2018-01-17,£12.50,Watershed,"Food,Drinks",Refreshments,"Coffee,juice and cake for 4 persons"
 2018-01-17,£35.00,Watershed,Food,Lunch,Mains and sides for 4 persons
 2018-01-17,£06.50,Watershed,Food,Lunch,Mains for Victoria ('cause Thomas messed up with the previous order)
-2018-01-17,£550.00,Thomas,Work,Daily invoice,
+2018-01-17,£550.00,Thomas,Work,Daily effort rate,
 2018-01-17,£59.78,Easyjet,Transport,Romain airplane ticket + extra luggage,Bristol to Bordeaux
-2018-01-17,€500.00,Romain,Work,Daily invoice,
-2018-01-17,£400.00,Alaine,Work,Daily invoice,
-2018-01-17,€00.00,Noémie,Work,Daily invoice,
+2018-01-17,€500.00,Romain,Work,Daily effort rate,
+2018-01-17,£400.00,Alaine,Work,Daily effort rate,
+2018-01-17,€400.00,Noémie,Work,Daily effort rate,
 2018-01-18,£08.00,First Bus,Transport,City Centre to Knowle,
-2018-01-18,£00.00,Thomas,Work,Daily invoice,
+2018-01-18,£0.00,Thomas,Work,Daily effort rate,
 2018-01-18,£10.90,uber,Transport,Bristol,Return from south for 4 persons
-2018-01-18,€500.00,Romain,Work,Daily invoice,
-2018-01-18,£400.00,Alaine,Work,Daily invoice,
-2018-01-18,€400.00,Noémie,Work,Daily invoice,
-2018-01-19,£550.00,Thomas,Work,Daily invoice,
+2018-01-18,€500.00,Romain,Work,Daily effort rate,
+2018-01-18,£400.00,Alaine,Work,Daily effort rate,
+2018-01-18,€400.00,Noémie,Work,Daily effort rate,
+2018-01-19,£0.00,Thomas,Work,Daily effort rate,
 2018-01-19,£8,Bristol Airport,Transport,Romain airport bus ticket,
-2018-01-19,€500.00,Romain,Work,Daily invoice,
-2018-01-19,£400.00,Alaine,Work,Daily invoice,
-2018-01-19,€400.00,Noémie,Work,Daily invoice,
+2018-01-19,€500.00,Romain,Work,Daily effort rate,
+2018-01-19,£400.00,Alaine,Work,Daily effort rate,
+2018-01-19,€400.00,Noémie,Work,Daily effort rate,
 2018-01-19,£40.00,Pinkmans,Food,Lunch,"4 pizzas and some delicious beetroot hummus"
 2018-01-19,£07.90,Café du jour,Drinks,Coffee,"4 coffees to go prior to presentation at City Hall"
 2018-02-06,£09.80,Benugo,"Food,Drinks",Refreshments,"Coffee and breakfast snacks"
 2018-02-06,£27.20,Barbican Kitchen,Food,Lunch,"Pizza and salad for 3 persons"
+2018-02-06,£400.00,Alaine,Work,Daily effort rate,
+2018-02-06,€400.00,Noémie,Work,Daily effort rate,
+2018-02-06,£550.00,Thomas,Work,Daily effort rate,
+2018-02-07,£400.00,Alaine,Work,Daily effort rate,
+2018-02-07,€400.00,Noémie,Work,Daily effort rate,
+2018-02-07,£550.00,Thomas,Work,Daily effort rate,
 2018-02-08,£35.75,Look mum no hands,Food,Lunch,"Burger, flatbread and salad for 3 persons"
+2018-02-08,£0.00,Alaine,Work,Daily effort rate,
+2018-02-08,€0.00,Noémie,Work,Daily effort rate,
+2018-02-08,£550.00,Thomas,Work,Daily effort rate,
 2018-02-11,€144.16,Airbnb,Accomodation,Field work,"A place to stay for 3 persons"
 2018-02-12,£250.20,trainline.com,Transport,London/Bristol,"Off-peak return tickets for 3 persons"
 2018-02-12,£08.60,Her,Drinks,Refreshments,"Coffee and tea break"
+2018-02-12,£400.00,Alaine,Work,Daily effort rate,
+2018-02-12,€400.00,Noémie,Work,Daily effort rate,
+2018-02-12,£550.00,Thomas,Work,Daily effort rate,
 2018-02-13,£08.65,Caffe Gusto,Drinks,Refreshments,"Coffee and cookie snack"
 2018-02-13,£06.00,First Bus,Transport,Bus tickets,"3 tickets to reach our Airbnb"
 2018-02-13,£08.62,Better Food,Food,Groceries,"Carrots, lettuce, eggs and mushrooms to cook for dinner"
+2018-02-13,£400.00,Alaine,Work,Daily effort rate,
+2018-02-13,€400.00,Noémie,Work,Daily effort rate,
+2018-02-13,£550.00,Thomas,Work,Daily effort rate,
 2018-02-14,£03.00,First Bus,Transport,Bus tickets,"3 tickets to go downtown"
 2018-02-14,£17.70,Folk House Cafe,Food,Lunch,"Soup, toasties and today special"
+2018-02-14,£400.00,Alaine,Work,Daily effort rate,
+2018-02-14,€400.00,Noémie,Work,Daily effort rate,
+2018-02-14,£0.00,Thomas,Work,Daily effort rate,
 2018-02-15,€10.39,ovh.com,Infrastructure,Domain Name,mind-the-gaps.org
+2018-02-19,£400.00,Alaine,Work,Daily effort rate,
+2018-02-19,€400.00,Noémie,Work,Daily effort rate,
+2018-02-19,£0.00,Thomas,Work,Daily effort rate,
+2018-02-20,£400.00,Alaine,Work,Daily effort rate,
+2018-02-20,£0.00,Thomas,Work,Daily effort rate,
+2018-02-21,£400.00,Alaine,Work,Daily effort rate,
+2018-02-21,€400.00,Noémie,Work,Daily effort rate,
+2018-02-21,£0.00,Thomas,Work,Daily effort rate,
+2018-02-23,£400.00,Alaine,Work,Daily effort rate,
+2018-02-23,€400.00,Noémie,Work,Daily effort rate,
+2018-02-23,£0.00,Thomas,Work,Daily effort rate,
