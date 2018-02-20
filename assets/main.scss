@@ -21,6 +21,20 @@ $brand-color: #357edd;
 	border: 0;
 }
 
+blockquote {
+	border: none;
+	margin-bottom: 2em;
+	padding-left: 2em;
+
+	&:before {
+		content: "\201C";
+		font-size: 3em;
+		line-height: 0.1em;
+	  margin-left: -0.7em;
+	  vertical-align: -0.5em;
+	}
+}
+
 /*
  Form stuff
  */
