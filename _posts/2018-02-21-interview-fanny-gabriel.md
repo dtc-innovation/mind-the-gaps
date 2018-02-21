@@ -13,7 +13,7 @@ _Bordeaux Maritime_ offre plusieurs _outils de proximité_ avec les habitant·e�
 
 1. le contact direct — permanences, téléphone, [Internet][permanence-internet] ;
 2. la commission permanente ;
-3. [les conseils citoyens][] — encouraged by [Feb 21 2014 law][] ;
+3. [les conseils citoyens][] — encouragé par la [loi du 21 février 2014][Feb 21 2014 law] ;
 4. les chargé·e·s de proximité.
 
 Les chargé·e·s de proximité sont des personnes qui circulent dans les quartiers pour être au contact des habitant·e·s. Ces personnes recueillent les signalements (problèmes, dégradations, demandes, idées, etc.) et les consignent afin que les services de la Mairie puissent agir dessus.
