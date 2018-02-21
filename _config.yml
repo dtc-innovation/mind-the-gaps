@@ -3,12 +3,11 @@ email: mind-the-gaps@framalistes.org
 description: |
   Mind the Gaps is an **experiment** to bring citizen sensing closer to policy making. It is a **system** for open data collection about well-being and inequalities in cities.
 
-  It will invite citizens to **paint a more comprehensive picture** of their experience of their neighbourhood.
+  We invite citizens to **paint a more comprehensive** picture of their experience of their neighbourhood.
 
-  It complements existing datasets with qualitative data at a neighbourhood level.
-  This will aim to stimulate open discussions and help policy makers build more resilient cities.
+  It complements existing datasets with qualitative data at a neighbourhood level. This will aim to stimulate open discussions and help policy makers build more resilient cities.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mind-the-gaps.org"
+url: "https://mind-the-gaps.org"
 lang: en_GB
 twitter_username:
 github_username:
@@ -28,11 +27,18 @@ milestones:
   work_week_end: 2018-01-19T20:00:00
 
 header_pages:
-  - survey.md
-  - impact-map.md
-  - proposal.md
-  - outcomes.md
+  - fr/index.md
+  - toolbox.md
+  - glossary.md
+  - research.md
   - about.md
+
+collections:
+  contexts:
+    output: true
+    permalink: /for/:name
+  features:
+    output: false
 
 exclude:
   - Gemfile
