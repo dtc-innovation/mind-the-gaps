@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Form prototyping methodology
 image: /assets/presentations/2018-02-08-odi/slide-11.png
 tags:
@@ -32,7 +31,19 @@ We needed to go back to Bristol.
 
 Another intuition we developed was to reuse answers from previous questions to formulate questions on the online questionnaire. We discovered that Typeform provided such a feature for free. We kept thinking how to be on par, online and offline, so as data collection can be of a similar quality regardless of the medium.
 
-We went to Bristol and took a half-open structure. We used it as a framework as a semi-structured community interview. We did around 15 interviews in a round in the centre of Bristol. We then did a retro session to transcribe these interviews. We got the full extent of what people were saying.
+(it is called mixed methods. Creating quantitative data complementing qualitative data.)
+
+
+(discovery about thick data, Tricia Wang)
+difference between quality of life (top down asking) vs wellbeing (bottom up expression)
+--> dig up the 60/70s study about ethnographic studies and the rise of computers
+
+We went to Bristol and took a half-open structure. We used it as a framework as a semi-structured community interview. We did around 15 interviews in a round in the centre of Bristol. We then did a retro session to transcribe
+ these interviews. We got the full extent of what people were saying.
+
+we recouped the questions with QoL to ensure we do not overlap but complement.
+
+re open choice on topic of answers to reply to. better to say 'do you want to answer some more questions' rather than 'do you reply to X, Y or Z?'. If they have time and say yes, using that time.
 
 At that point we started to rebuild the questions. We were thinking about several key things:
 - how to have a nice flow of information (in a structure which could be made relevant in a dataset -- asking 1 question, rephrasing you can do that in real life but not on a digital form)
