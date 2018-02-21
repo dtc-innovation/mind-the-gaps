@@ -2,4 +2,4 @@
 title: A survey
 ---
 
-Foo
+Online and offline surveys to take the pulse of your neighbourhood.
