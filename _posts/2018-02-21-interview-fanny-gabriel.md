@@ -74,7 +74,7 @@ Fin mars c'est bien.
 
 
 [Bordeaux Maritime]: http://www.bordeaux.fr/ebx/LinkResolverServlet?classofcontent=presentationStandard&id=63937
-[conseils citoyens]: http://www.bordeaux.fr/ebx/pgPresStand8.psml?classofcontent=presentationStandard&id=113851
+[les conseils citoyens]: http://www.bordeaux.fr/ebx/pgPresStand8.psml?classofcontent=presentationStandard&id=113851
 [Feb 21 2014 law]: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028636804&categorieLien=id
 [permanence-internet]: http://www.bordeaux.fr/ebx/pgPresStand8.psml?_nfpb=true&_pageLabel=pgPresStand8&classofcontent=presentationStandard&id=111236
 [analyse des besoins sociaux]: http://www.bordeaux.fr/images/ebx/fr/groupePiecesJointes/38706/7/pieceJointeSpec/126318/file/ABS_Q1_ecom.pdf

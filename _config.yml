@@ -32,7 +32,6 @@ header_pages:
   - impact-map.md
   - proposal.md
   - outcomes.md
-#  - accountability.md
   - about.md
 
 exclude:
