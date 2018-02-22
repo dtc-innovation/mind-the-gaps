@@ -35,6 +35,37 @@ blockquote {
 	}
 }
 
+.jumbotron {
+	background: #ccc;
+	color: #666;
+	font-size: 1.6em;
+	margin: 3em 0;
+	padding: 2em;
+	text-align: center;
+}
+
+/*
+	Grid items
+ */
+.grid {
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+	margin: 1.5em 0;
+
+	> li {
+		margin: 0 1em 0 0;
+	}
+
+	&.grid--3 > li {
+		flex: 0 0 33%;
+	}
+
+	&.grid--2 > li {
+		flex: 0 0 50%;
+	}
+}
+
 /*
  Form stuff
  */

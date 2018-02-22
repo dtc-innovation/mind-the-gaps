@@ -2,91 +2,38 @@
 layout: default
 ---
 
-{% assign cities = site.pages | where: 'layout', 'city' %}
-
-{% assign early_posts=site.posts | where_exp:"post", "post.date < site.milestones.work_week_start" %}
-{% assign recent_posts=site.posts | slice: 0,2 %}
-{% assign work=site.posts | where_exp:"post", "post.date >= site.milestones.work_week_start" %}
-{% assign workshops=work | where_exp:"post", "post.tags contains 'workshop'" %}
-{% assign interviews=work | where_exp:"post", "post.tags contains 'interviews'" %}
-{% assign events=work | where_exp:"post", "post.tags contains 'event'" %}
-{% assign diary=work | where_exp:"post", "post.tags contains 'diary'" %}
-{% assign presentations=work | where_exp:"post", "post.tags contains 'presentation'" %}
-{% assign insights=work | where_exp:"post", "post.tags contains 'insights'" | concat: presentations | sort: 'date' | reverse %}
-{% assign retrospectives=work | where_exp:"post", "post.tags contains 'retrospective'" %}
-{% assign last_presentation=insights | first %}
+{% assign recent_posts = site.posts | slice: 0,2 %}
 
 <section class="intro">
   {{ content }}
 </section>
 
-<section id="recent-news">
-  <h1>🔥 What kept us busy lately</h1>
+<section id="features">
+  <ul class="grid grid--3">
+  {% for feature in site.features %}
+  <li>
+    <img src="https://fillmurray.com/g/300/150?{{ forloop.index }}" alt="">
 
-  {% include posts-list.html posts=recent_posts %}
+    <h2>{{ feature.title }}</h2>
+
+    {{ feature.excerpt | markdownify }}
+  </li>
+  {% endfor %}
+  </ul>
 </section>
 
-<section class="work">
-  <!-- <header>
-    <h1>⛺️ What we researched so far</h1>
-  </header> -->
-
-  <article>
-    <p>
-      <a href="{{ last_presentation.url | relative_url }}">
-        👓
-        <strong>Read our latest</strong> {{ last_presentation.title | split: '•' | first }} ({{ last_presentation.date | date_to_string }})
-      </a>
-    </p>
-
-    <aside>
-      <ul>
-        {% for city in cities %}
-        <li><a href="{{ city.url | relative_url }}#resources">📍 {{ city.title }} resources</a></li>
-        {% endfor %}
-      </ul>
-    </aside>
-  </article>
-
-  <section>
-    <h2>🔬 Insights &amp; Presentations</h2>
-
-    {% include posts-list-horizontal.html posts=insights %}
-  </section>
-
-  <section>
-    <h2>🎤 Interviews</h2>
-
-    {% include posts-list-horizontal.html posts=interviews %}
-  </section>
-
-  <section>
-    <h2>👩‍🏫 Workshops</h2>
-
-    {% include posts-list-horizontal.html posts=workshops %}
-  </section>
-
-  <section>
-    <h2>📖 Research Week Diary</h2>
-
-    {% include posts-list-horizontal.html posts=diary %}
-  </section>
-
-  <section>
-    <h2>💬 Team Retrospectives</h2>
-
-    {% include posts-list-horizontal.html posts=retrospectives %}
-  </section>
-
-  <section>
-    <h2>🎉 Events</h2>
-
-    {% include posts-list-horizontal.html posts=events %}
-  </section>
+<section class="jumbotron h1">
+  A mixed-methods approach.
 </section>
 
-<section id="older-news">
-  <h1>🚀 Project launch</h1>
 
-  {% include posts-list.html posts=early_posts %}
+<section id="principles" class="jumbotron">
+  <h1>Our Principles</h1>
+
+  <ul class="grid">
+    <li>✅ Open</li>
+    <li>✅ Replicable</li>
+    <li>✅ Independant</li>
+    <li>✅ Accessible</li>
+  </ul>
 </section>
