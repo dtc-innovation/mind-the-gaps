@@ -45,6 +45,14 @@ blockquote {
 }
 
 /*
+	Patches
+ */
+label[for="nav-trigger"] {
+	display: none;
+	margin: 0;
+}
+
+/*
 	Grid items
  */
 .grid {
