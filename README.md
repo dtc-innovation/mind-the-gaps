@@ -19,12 +19,12 @@ Various types of content can be changed by modifying files contained in certain 
 | Product Features | [`_contexts/`][]            | markdown
 | Posts            | [`_posts/`][]               | markdown
 
-[`_config.yml`]: ./tree/master/_config.yml
-[`cities/`]: ./tree/master/cities/
-[`_contexts/`]: ./tree/master/_contexts/
-[`_data/glossary.yaml`]: ./tree/master/_data/glossary.yaml
-[`_features/`]: ./tree/master/_features/
-[`_posts/`]: ./tree/master/_posts/
+[`_config.yml`]: ./_config.yml
+[`cities/`]: ./cities/
+[`_contexts/`]: ./_contexts/
+[`_data/glossary.yaml`]: ./_data/glossary.yaml
+[`_features/`]: ./_features/
+[`_posts/`]: ./_posts/
 
 ## Datasets
 
@@ -35,7 +35,7 @@ Various types of content can be changed by modifying files contained in certain 
 | Spendings        | [`_data/spendings/`][]      | CSV
 | Time planner     | [`_data/timeplanner.csv`][] | CSV
 
-[`_data/neighbourhoods/`]: ./tree/master/_data/neighbourhoods/
-[`_data/locations/`]: ./tree/master/_data/locations/
-[`_data/spendings/`]: ./tree/master/_data/spendings/
-[`_data/timeplanner.csv`]: ./tree/master/_data/locations/_data/timeplanner.csv
+[`_data/neighbourhoods/`]: ./_data/neighbourhoods/
+[`_data/locations/`]: ./_data/locations/
+[`_data/spendings/`]: ./_data/spendings/
+[`_data/timeplanner.csv`]: ./_data/locations/_data/timeplanner.csv
