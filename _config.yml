@@ -1,18 +1,28 @@
 title: Mind the Gaps
-email: mind-the-gaps@framalistes.org
 description: |
   Mind the Gaps is an **experiment** to bring citizen sensing closer to policy making. It is a **system** for open data collection about well-being and inequalities in cities.
 
   We invite citizens to **paint a more comprehensive** picture of their experience of their neighbourhood.
 
   It complements existing datasets with qualitative data at a neighbourhood level. This will aim to stimulate open discussions and help policy makers build more resilient cities.
+footer_description: |
+  We are an **independant data collective** of researchers, artists, developers and ethnographers.
+  We are based in France 🇫🇷, London 🇬🇧 and Montréal 🇨🇦.
+
+  The project is backed by the non-profit cooperative
+  [dtc innovation](https://dtc-innovation.org).
+  We do not track nor collect any personal data.
+  And will never do, not even for money.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mind-the-gaps.org"
 lang: en_GB
 twitter_username:
 github_username:
+email: "&#x68;&#x65;&#x6c;&#x6c;&#x6f;&#x40;&#x6d;&#x69;&#x6e;&#x64;&#x2d;&#x74;&#x68;&#x65;&#x2d;&#x67;&#x61;&#x70;&#x73;&#x2e;&#x6f;&#x72;&#x67;"
 github_project: https://github.com/dtc-innovation/mind-the-gaps/
 newsletter: https://tinyletter.com/mind-the-gaps
+slackin: https://slack.dtc-innovation.org
+slack_channel: projet-mind-the-gaps
 
 markdown: kramdown
 theme: minima

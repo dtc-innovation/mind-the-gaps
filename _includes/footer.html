@@ -24,20 +24,23 @@
    <div class="footer-col-wrapper">
      <div class="footer-col footer-col-3">
        <ul class="contact-list">
-         {% if site.email %}
-           <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+         {% if site.slackin %}
+           <li>🗣 <a class="u-email" href="{{ site.slackin }}" title="Join us on Slack on the channel #{{ site.slack_channel }}">Talk to us on Slack</a></li>
          {% endif %}
-         {% if site.github_project %}
-           <li><a class="u-url" href="{{ site.github_project }}">GitHub Project</a></li>
+         {% if site.email %}
+           <li>✍️ <a class="u-email" href="mailto:{{ site.email }}">Send us an email</a></li>
          {% endif %}
          {% if site.newsletter %}
-           <li><a class="u-url" href="{{ site.newsletter }}">Newsletter</a></li>
+           <li>💌 <a class="u-url" href="{{ site.newsletter }}">Subscribe to our newsletter</a></li>
+         {% endif %}
+         {% if site.github_project %}
+           <li>📦 <a class="u-url" href="{{ site.github_project }}">Browse source  code and datasets</a></li>
          {% endif %}
        </ul>
      </div>
 
      <div class="footer-col footer-col-3">
-      {{ site.description | markdownify }}
+      {{ site.footer_description | markdownify }}
      </div>
    </div>
 
