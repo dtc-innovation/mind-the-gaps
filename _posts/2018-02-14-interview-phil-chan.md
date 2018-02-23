@@ -43,7 +43,7 @@ Policy makers, like all of us, are subject to _number biases_. They _do_ underst
 
 The [Quality of Life Survey][] does not have questions structured about neighbourhoods.
 
-The project would be more valuable with the _third sector_. Which is composed by _voluntary organisations_, like Voscur. It would a more useful too for engagement rather than policy change.
+The project would be more valuable with the _third sector_. Which is composed by _voluntary organisations_, like Voscur. It would a more useful tool for engagement rather than policy change.
 
 The Consultation Engagement Team is now separated from the Policy & Strategy Team.
 
