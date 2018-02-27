@@ -36,6 +36,7 @@ in terms of reaching people, from all ages and all backgrounds, abilities
 free and open tools to measure quality of life (like for Knowle West)
 computer litteracy: you can use a computer and not feel comfortable to answer
 some people don't think about these questions, so it takes them more effort to give an answer
+face to face allows us to access the ones who are the fasthest away from local gov initiatives
 
 # mixed methods
 
@@ -46,6 +47,7 @@ especially in deprived area, the power of just having a chat
 
 we found out the councils are not that data driven and dont have much resources to change things
 just giving a space to vent and to be heard
+you can't really measure community engagement (no data about valuable actions) – unless you have a complaint, you are not going to go and deposit
 
 # the blend of data types
 
@@ -71,5 +73,10 @@ people don't know about smart city
 # community based data collection
 
 our ambition is to create a participatory experience
-that's where local gov want to encourage (easier to get people together and to empower the communities to make it a better interface with local gov)
+that's where local gov want to encourage (easier to get people together and to empower the communities to make it a better interface with local gov about what matters the most in the area)
 that's where we can be trusted to ask these questions
+
+# city comparisons
+
+bristol does not collect quali data on their citizens
+bordeaux does but does not analyse them
