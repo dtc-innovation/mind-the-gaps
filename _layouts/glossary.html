@@ -16,7 +16,11 @@ layout: default
       <li id="{{ definition[0] | slugify }}">
         <h2>{{ definition[0] }}</h2>
 
-        {{ definition[1] | markdownify }}
+        {{ definition[1].definition | default: definition[1] | markdownify }}
+        
+        {% if definition[1].credit %}
+        <p><strong>Credits</strong>: {{ definition[1].credit }} </p>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
