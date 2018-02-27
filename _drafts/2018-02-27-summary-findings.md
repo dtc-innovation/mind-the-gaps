@@ -2,6 +2,7 @@
 title: Summary of our recommendations and findings
 tags:
 - workshop
+- conclusions
 ---
 
 what a quality of life survey is? What it hopes to achieve? How it's used?
