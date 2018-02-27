@@ -26,6 +26,6 @@ Citizen Sensing:
     Citizen Sensing is a process where people build, use, or act as, sensors – for example, identifying and gathering information (or ‘data’) that will help them to tackle an issue that’s important to them.
   credit: http://kwmc.org.uk/projects/bristolapproach/
 Big Data: |
-  TBD.
-Data: |
-  TBD.
+  Big data is a term applied to data sets whose size or type is beyond the ability of traditional relational databases to capture, manage, and process the data with low-latency. And it has one or more of the following characteristics – high volume, high velocity, or high variety. Big data comes from sensors, devices, video/audio, networks, log files, transactional applications, web, and social media - much of it generated in real time and in a very large scale.Data: |
+  credit: https://www.ibm.com/analytics/hadoop/big-data-analytics
+Data:
