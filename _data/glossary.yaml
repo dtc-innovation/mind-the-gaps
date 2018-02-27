@@ -1,23 +1,29 @@
 
-Mixed Methods: |
-  Mixed methods research is a methodology for conducting. research that involves collecting, analyzing, and integrating (or mixing) quantitative and qualitative research (and data) in a single study. 
-  Credit: https://www.nd.edu.au/downloads/research/ihrr/overview_mixed_methods.pdf
-Qualitative Data: |
-  Qualitative data collects information that seeks to describe a topic more than measure it. Think of impressions, opinions, and views. It seeks to delve deep into the topic at hand to gain information about people’s motivations, thinking, and attitudes. While this brings depth of understanding to your research questions, it also makes the results harder to analyze.
-  Credit: https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/
-Quantitative Data: |
-  Quantitative data is designed to collect cold, hard facts. Numbers. Quantitative data is structured and statistical. It provides support when you need to draw general conclusions from your research.
-  Credit: https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/
+Mixed Methods:
+  definition: |
+    Mixed methods research is a methodology for conducting. research that involves collecting, analyzing, and integrating (or mixing) quantitative and qualitative research (and data) in a single study. 
+  credit: https://www.nd.edu.au/downloads/research/ihrr/overview_mixed_methods.pdf
+Qualitative Data:
+  definition: |
+    Qualitative data collects information that seeks to describe a topic more than measure it. Think of impressions, opinions, and views. It seeks to delve deep into the topic at hand to gain information about people’s motivations, thinking, and attitudes. While this brings depth of understanding to your research questions, it also makes the results harder to analyze.
+  credit: https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/
+Quantitative Data:
+  definition: |
+    Quantitative data is designed to collect cold, hard facts. Numbers. Quantitative data is structured and statistical. It provides support when you need to draw general conclusions from your research.
+  credit: https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/
 Open Data: |
   Data made widely avaible for free, under certain conditions.
-Thick Data: |
-  A thick discription of a human behavior is one that explains not just the behavior, but its context as well, such that the behavior becomes meaningful to an outsider. Thick data is the recording and addition of these contextual details to big data sets.
-  Credit: https://en.wikipedia.org/wiki/Thick_description 
-  Credit: http://ethnographymatters.net/blog/2016/05/03/five-mixed-methods-for-research-in-the-big-data-age/
-Citizen Sensing: |
-  Citizen Sensing is a process where people build, use, or act as, sensors – for example, identifying and gathering information (or ‘data’) that will help them to tackle an issue that’s important to them.
-  Credit: http://kwmc.org.uk/projects/bristolapproach/
-Big Data:
-
-Data:
-  
+Thick Data:
+  definition: |
+    A thick discription of a human behavior is one that explains not just the behavior, but its context as well, such that the behavior becomes meaningful to an outsider. Thick data is the recording and addition of these contextual details to big data sets.
+  credit:
+    - https://en.wikipedia.org/wiki/Thick_description 
+    - http://ethnographymatters.net/blog/2016/05/03/five-mixed-methods-for-research-in-the-big-data-age/
+Citizen Sensing:
+  definition: |
+    Citizen Sensing is a process where people build, use, or act as, sensors – for example, identifying and gathering information (or ‘data’) that will help them to tackle an issue that’s important to them.
+  credit: http://kwmc.org.uk/projects/bristolapproach/
+Big Data: |
+  TBD.
+Data: |
+  TBD.
