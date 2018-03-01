@@ -9,6 +9,7 @@ $text-color: #333;
 $brand-color: #357edd;
 
 @import "minima";
+@import "font-inconsolata";
 
 .sr-only {
 	position: absolute;
@@ -172,9 +173,16 @@ figure {
 }
 
 .post-list--horizontal {
-  li {
-    margin-bottom: 5px;
-  }
+	> li {
+		display: flex;
+		flex: 0 0 50%;
+		margin-bottom: 5px;
+	}
+
+	.post-meta {
+		font-size: 1em;
+		margin-right: 5px;
+	}
 }
 
 table {
@@ -218,6 +226,11 @@ table {
     flex: 1 0 100%;
   }
 
+	time.post-meta {
+		font-family: inconsolatamedium, Courier, monospace;
+		flex-shrink: 0;
+	}
+
   article {
     background: url({{ '/assets/cities/uk/bristol.jpg' | relative_url }});
     background-size: cover;
@@ -256,5 +269,14 @@ table {
 		margin-bottom: 1.5em;
     width: 50%;
   }
+
+	section.wide {
+		width: 100%;
+
+		.post-list--horizontal {
+			display: flex;
+			flex-wrap: wrap;
+		}
+	}
 
 }

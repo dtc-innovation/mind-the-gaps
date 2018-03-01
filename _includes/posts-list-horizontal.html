@@ -1,8 +1,8 @@
 <ul class="post-list post-list--horizontal">
   {% for post in include.posts %}
     <li>
-      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
+      <time class="post-meta" datetime="{{ post.date }}">{{ post.date | date: date_format }}</time>
 
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title | escape }}</a>
     </li>
