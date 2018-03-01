@@ -55,4 +55,27 @@ tags:
 
 # ODI insights
 
-TBD.
+Data consent - data protection.
+Anonymised data - but geographical. Quite radical. (Keep in mind it’s potential cause for pushback.)
+
+Conclusion for the council: Hire independent researchers - you’ll get more for your money.
+Cost - benefit analysis for the Council. Survey - ethnographic research.
+
+Actions:
+- What is a quality of life survey what is it used for?
+- Fill in the glossary.
+- Present for each option: Who can you reach, is it labour intensive etc
+- Connect with the voluntary and charitable sector.
+- Testing the survey live: What is the data stream? Is it used? How?
+- We suspect it can be used to back bids and negotiations.
+Thomas: “So it’s kind of cool” :)
+
+Some things are unmeasurable: community engagement (to strengthen in Bristol and to sort of make in Bordeaux)
+
+Ideas:
+- Social media citizen sensing - can we invite people to do it? What’s the share ability.
+- Conversational twitter bot.
+Value in increasing response rates.
+
+To come: Anna for wording and Patrice for social media - Tom will introduce us to the ODI comms team.
+Share our application for the data festival.
