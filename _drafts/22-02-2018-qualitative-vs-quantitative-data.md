@@ -1,8 +1,14 @@
-We were thinking about taking the stories of people and trying to integrate them with the large amounts of numerical data that local government's currently hold.
+---
+title: Qualitative data vs. Quantitative data
+tags:
+- conclusions
+---
 
-Why would we want to do this?
+We were thinking about **taking the stories of people** and trying to integrate them with the large amounts of numerical data that local government's currently hold.
 
-Big data normally consists of data points collected as life and digital platforms cross over these data points come from our bank transactions email search history applications and requests these data points event processed by algorithms the algorithms combine and process the big data set sets and make assumptions based off of the outcomes these are often very valuable but can potentially be misleading.
+# Why would we want to do this?
+
+**Big data** normally consists of data points collected as life and digital platforms cross over these data points come from our bank transactions, email, search history, applications and requests. These data points are processed by algorithms. The algorithms combine and process the big data sets and make assumptions based on the outcomes. These are often very valuable but **can potentially be misleading**.
 
 The benefits of big data collection is that it tends to be cheap and fast the negatives are that it can be in personal centralised the process is often a closed one and it needs expertise and data scientists to read and process the data in the world of photography today this is often referred to as thin data.  I see the thin referring to impersonal numerical data points which hope to capture information about a person rather than a full bodied face-to-face interview or indeed any interaction with the person.
 
@@ -14,6 +20,4 @@ If a qualitative study does not align with the findings of quantitative studies 
 
 If the findings of the studies don't correlate it then we can clearly see the policy should not be built on the findings but more research will be needed to assess the situation.
 
-This kind of research combining quantitative and qualitative research methods is what's known as mixed methods.
- 
- 
+This kind of research combining quantitative and qualitative research methods is what's known as **mixed methods**.

@@ -9,6 +9,6 @@ Speaking to Phil Chan who ran the quality of life survey within the local govern
 
 We decided that one of the things that was missing as a link between the lives of Citizens and the information that local governments have access to is qualitative.
 
-Qualitative data  is usually based on citizen interviews it is rich and personal. It embraces the full story of people's experiences.  it is usually collected on a face-to-face and one to one interview method.  this makes it time consuming to collect. On top of this as the interviews need to be transcribed and analysed by a sociologists as not referred or coded by an expensive computer system it means it's expensive to process. 
+Qualitative data  is usually based on citizen interviews it is rich and personal. It embraces the full story of people's experiences.  it is usually collected on a face-to-face and one to one interview method.  this makes it time consuming to collect. On top of this as the interviews need to be transcribed and analysed by a sociologists as not referred or coded by an expensive computer system it means it's expensive to process.
 
 We decided if we could come up with a service that sat between the quantitative methods of the quality of life survey and the rich ethnographic insights that could be collected from a qualitative study, we could create something useful for both local government and citizens.  if we could develop a toolbox with 0 running costs it could also be replicable in Bordeaux and in fact any City across the world.
