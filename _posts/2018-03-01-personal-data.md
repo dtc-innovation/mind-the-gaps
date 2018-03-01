@@ -2,7 +2,7 @@
 title: A survey with no personal data?
 image: assets/posts/survey-question-neighbourhood.png
 tags:
-- conclusions
+- findings
 ---
 
 While conducting the first research phase of _Mind the Gaps_, we made **a concious decision to not ask for personal data** in the survey.

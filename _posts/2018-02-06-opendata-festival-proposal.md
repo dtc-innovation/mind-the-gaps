@@ -4,7 +4,7 @@ title: |
 tags:
 - bristol
 - talk
-- event
+- presentation
 ---
 
 We offered to facilitate a combination of a **talk** and an **activity**

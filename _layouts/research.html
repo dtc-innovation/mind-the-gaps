@@ -9,8 +9,8 @@ layout: default
 {% assign work=site.posts | where_exp:"post", "post.date >= site.milestones.work_week_start" %}
 {% assign workshops=work | where_exp:"post", "post.tags contains 'workshop'" %}
 {% assign interviews=work | where_exp:"post", "post.tags contains 'interviews'" %}
-{% assign events=work | where_exp:"post", "post.tags contains 'event'" %}
 {% assign diary=work | where_exp:"post", "post.tags contains 'diary'" %}
+{% assign findings=work | where_exp:"post", "post.tags contains 'findings'" %}
 {% assign presentations=work | where_exp:"post", "post.tags contains 'presentation'" %}
 {% assign insights=work | where_exp:"post", "post.tags contains 'insights'" | concat: presentations | sort: 'date' | reverse %}
 {% assign retrospectives=work | where_exp:"post", "post.tags contains 'retrospective'" %}
@@ -27,10 +27,6 @@ layout: default
 </section>
 
 <section class="work">
-  <!-- <header>
-    <h1>⛺️ What we researched so far</h1>
-  </header> -->
-
   <article>
     <p>
       <a href="{{ last_presentation.url | relative_url }}">
@@ -48,40 +44,40 @@ layout: default
     </aside>
   </article>
 
-  <section>
+  <section id="insights">
     <h2>🔬 Insights &amp; Presentations</h2>
 
     {% include posts-list-horizontal.html posts=insights %}
   </section>
 
-  <section>
-    <h2>🎤 Interviews</h2>
+  <section id="findings">
+    <h2>🔎 Findings &amp; Conclusions</h2>
 
-    {% include posts-list-horizontal.html posts=interviews %}
+    {% include posts-list-horizontal.html posts=findings %}
   </section>
 
-  <section>
+  <section id="workshops" class="wide">
     <h2>👩‍🏫 Workshops</h2>
 
     {% include posts-list-horizontal.html posts=workshops %}
   </section>
 
-  <section>
+  <section id="interviews">
+    <h2>🎤 Interviews</h2>
+
+    {% include posts-list-horizontal.html posts=interviews %}
+  </section>
+
+  <section id="diary">
     <h2>📖 Research Week Diary</h2>
 
     {% include posts-list-horizontal.html posts=diary %}
   </section>
 
-  <section>
+  <section id="retrospectives" class="wide">
     <h2>💬 Team Retrospectives</h2>
 
     {% include posts-list-horizontal.html posts=retrospectives %}
-  </section>
-
-  <section>
-    <h2>🎉 Events</h2>
-
-    {% include posts-list-horizontal.html posts=events %}
   </section>
 </section>
 

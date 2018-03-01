@@ -1,5 +1,5 @@
 ---
-title: Work Week Conclusions
+title: ODI Presentation • Work Week in Review
 image: /assets/presentations/2018-01-26-odi/slide-01.png
 tags:
 - bristol
