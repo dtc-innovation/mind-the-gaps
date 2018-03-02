@@ -21,7 +21,7 @@ layout: default
         {% if definition[1].credit %}
         <p><strong>Credits</strong>:
         {% for url in definition[1].credit %}
-        <a href="{{ url }}" rel="noopener" target="_blank">{{ url | split: "/" | slice: 2, 1 }}</a>{% if forloop.last == false %}, {% endif %}
+        <a href="{{ url }}" rel="noopener" target="_blank">{{ url | replace: 'www.', '' | split: "/" | slice: 2, 1 }}</a>{% if forloop.last == false %}, {% endif %}
         {% endfor %}
         </p>
         {% endif %}
