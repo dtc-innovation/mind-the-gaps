@@ -37,12 +37,17 @@ blockquote {
 }
 
 .jumbotron {
-	background: #ccc;
+	background: transparent;
+	border: 2px #888 solid;
 	color: #666;
 	font-size: 1.6em;
 	margin: 3em 0;
 	padding: 2em;
 	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
 }
 
 /*
@@ -51,6 +56,25 @@ blockquote {
 label[for="nav-trigger"] {
 	display: none;
 	margin: 0;
+}
+
+/*
+	SVG Icons
+ */
+.icon {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.icon--large {
+	height: 40px;
+	width: 40px;
+}
+
+.icon--banner {
+	height: 125px;
+	margin-bottom: -1em;
+	width: 125px;
 }
 
 /*
@@ -73,6 +97,10 @@ label[for="nav-trigger"] {
 	&.grid--2 > li {
 		flex: 0 0 50%;
 	}
+}
+
+.grid--align-center {
+	text-align: center;
 }
 
 /*
@@ -279,4 +307,21 @@ table {
 		}
 	}
 
+}
+
+#principles {
+	.icon {
+		color: $brand-color;
+	}
+
+	.grid {
+		flex-wrap: wrap;
+		justify-content: center;
+		margin-bottom: 0;
+
+		> li {
+			flex: 1 1 auto;
+			margin: 0 0 1.5em 0;
+		}
+	}
 }

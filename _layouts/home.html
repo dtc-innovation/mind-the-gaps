@@ -9,12 +9,14 @@ layout: default
 </section>
 
 <section id="features">
-  <ul class="grid grid--3">
+  <ul class="grid grid--3 grid--align-center">
   {% for feature in site.features %}
   <li>
-    <img src="https://fillmurray.com/g/300/150?{{ forloop.index }}" alt="">
+    <header>
+    {% include icon.html id=feature.icon class="icon icon--banner" %}
+    </header>
 
-    <h2>{{ feature.title }}</h2>
+    <h2 class="bold">{{ feature.title }}</h2>
 
     {{ feature.excerpt | markdownify }}
   </li>
@@ -23,7 +25,7 @@ layout: default
 </section>
 
 <section class="jumbotron h1">
-  A mixed-methods approach.
+  Ethnographic research can drive decision-making by <strong>generating human qualitative data</strong>.
 </section>
 
 
@@ -31,9 +33,12 @@ layout: default
   <h1>Our Principles</h1>
 
   <ul class="grid">
-    <li>✅ Open</li>
-    <li>✅ Replicable</li>
-    <li>✅ Independant</li>
-    <li>✅ Accessible</li>
+    {% for principle in site.data.principles %}
+    <li>
+      {% include icon.html id="tick" class="icon icon--large" %}
+
+      {{ principle }}
+    </li>
+    {% endfor %}
   </ul>
 </section>

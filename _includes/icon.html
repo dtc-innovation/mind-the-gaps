@@ -1,0 +1,6 @@
+<svg class="{{ include.class | default: 'icon' }}" aria-hidden="true">
+  {% if include.title %}
+  <title>{{ include.title }}</title>
+  {% endif %}
+  <use xlink:href="{{ 'assets/icons.svg#' | append: include.id | relative_url }}"></use>
+</svg>

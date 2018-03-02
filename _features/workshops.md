@@ -1,5 +1,6 @@
 ---
 title: Workshops
+icon: people-exchange
 ---
 
-Run participatory workshops on quality of life, engagement, data...
+Engagement practices with community groups to gather structured feedback.
