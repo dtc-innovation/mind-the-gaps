@@ -11,12 +11,19 @@ Fanny Gabriel est secrétaire générale du quartier [Bordeaux Maritime][].
 
 _Bordeaux Maritime_ offre plusieurs _outils de proximité_ avec les habitant·e·s du quartier :
 
-1. le contact direct — permanences, téléphone, [Internet][permanence-internet] ;
+1. l'accueil de la mairie de quartier — permanences, téléphone, [Internet][permanence-internet] ;
 2. la commission permanente ;
-3. [les conseils citoyens][] — encouragé par la [loi du 21 février 2014][Feb 21 2014 law] ;
+3. [les conseils citoyens][] — imposés par la [loi du 21 février 2014][Feb 21 2014 law] ;
 4. les chargé·e·s de proximité.
 
-Les chargé·e·s de proximité sont des personnes qui circulent dans les quartiers pour être au contact des habitant·e·s. Ces personnes recueillent les signalements (problèmes, dégradations, demandes, idées, etc.) et les consignent afin que les services de la Mairie puissent agir dessus.
+La commission permanente de quartier est un outil de représentation des habitants et de participation citoyenne.
+
+La [loi du 21 février 2014][Feb 21 2014 law] a notamment pour objectif de réduire les écarts entre les quartiers prioritaires et les autres.
+Elle se reflète dans politique de la ville. Il y a deux quartiers prioritaires à Bordeaux Maritime : _Bacalan_ et _le Lac_.
+
+Les chargé·e·s de proximité sont des personnes qui circulent dans les quartiers pour être au contact des habitant·e·  et de l'ensemble des acteurs du quartier (associatifs, économiques, culturels, etc.).
+Ils recueillent les demandes de ces habitants et acteurs mais font aussi des signalements de dysfonctionnements qu'ils observent eux-mêmes sur le domaine public.
+Les services peuvent être de la Mairie ou de Bordeaux Métropole.
 
 ## Suivi des signalements
 
@@ -25,7 +32,7 @@ Les demandes sont de tout ordre — ça concerne beaucoup l'espace public.
 Un _logiciel de suivi_ centralise les signalements locaux et répartit les demandes aux services de la mairie.
 Le logiciel n'est pas très efficace. L'email est souvent utilisé pour s'adresser directement au service en charge de la résolution du signalement.
 
-Un nouveau logiciel "GDU" (gestion de la relation aux usagers) est en cours de développement. Il sera mieux et contiendra tous les traitements.
+Un nouveau logiciel "GDU" (gestion de la relation aux usagers) est en cours de développement. Il sera plus complet et plus efficace dans le suivi des demandes.
 
 Un des plus grands besoins est un _tableau de suivi des demandes_.
 Les demandes prennent du temps à résoudre, donc on a besoin de pouvoir les suivre et de recontacter les habitant·e·s le moment venu.
@@ -33,14 +40,17 @@ Les demandes prennent du temps à résoudre, donc on a besoin de pouvoir les sui
 ## Mairie de quartier
 
 L'importance de la mairie de quartier augmente depuis plusieurs années.
-La mairie de quartier comporte des _élus référants_ à chaque thématique (sport, travaux, emploi, etc.).
-À celà s'ajoute le _maire adjoint_ de quartier. Cette personne _pilote_ le quartier, aide à prioriser et appuie les demandes à la mairie.
+Il y en a 8 en tout à Bordeaux.
+Chacune d'entre elle est pilotée par un·e _maire-adjoint de quartier_, entouré·e d'une équipe de proximité.
 
-Les besoins des quartiers sont très différents. Le quartier administratif contient au moins 4 _quartiers vécus_ : les Aubiers, Bacalan, le Lac, Bassin à flot.
+La mairie de quartier comporte des _élus référants_ à chaque thématique (sport, travaux, emploi, etc.).
+Chaque projet est suivi conjointement par le maire-adjoint de quartier et le (ou les) élu(s) thématique(s) concerné(s).
+
+Les besoins des quartiers sont très différents. Le quartier administratif contient au moins 4 _quartiers vécus_ : Chartrons Nord, Bassins à flot, Bacalan, Aubiers et Ginko.
 
 ## Analyse des besoins sociaux
 
-L'[analyse des besoins sociaux][] (PDF, 1.6Mo) présente des chiffres éloignés de la réalité. Elle ne présente pas le _ressenti des populations_. L'[analyse des besoins sociaux][] est utile si on observe l'historique des quartiers mais pas sur le reflet de l'instant présent. La population de Bordeaux Maritime a quasiment été multipliée par 2 depuis 2014. Les données historiques n'aident pas à mieux gérer le quotidien.
+L'[analyse des besoins sociaux][] (PDF, 1.6Mo) présente des chiffres éloignés de la réalité. Elle ne présente pas le _ressenti des populations_. L'[analyse des besoins sociaux][] est utile si on observe l'historique des quartiers mais pas sur le reflet de l'instant présent. La population de Bordeaux Maritime est passée d'environ 25 000 à 35 000 habitants depuis 2012. Les données historiques n'aident pas à mieux gérer le quotidien.
 
 On manque de connaissances sur les quartiers, surtout des nouveaux arrivants.
 
