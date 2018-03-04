@@ -94,7 +94,6 @@ It helped keeping in touch with external people. It was almost realtime.
 - Field work was super valuable. Going talking ot people. Helps us remove biases. This was not done by the City Hall. A lot of discovery moments. Help us grow our research skills.
 - Very open about what we felt, what we were up to or not up to. <q>It feels right</q>.
 - All the feedback given by team members.
--
 
 # Topic: Reflect on work / methods / process
 
@@ -130,6 +129,10 @@ It helped keeping in touch with external people. It was almost realtime.
 - <q>Am I Useful?</q> Making more time for alone thinking, process thoughts and then bringing that to the group.
 - Balancing blockers with alternatives.
 - Speaking up sooner when I encounter difficulties.
+
+# SMART Goals
+
+TBD.
 
 
 # Topic: Develop the toolbox
