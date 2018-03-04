@@ -1,6 +1,6 @@
 ---
 title: End of Project Retrospective
-image: assets/workshops/2018-02-29-retrospective/screenshare.jpg
+image: assets/workshops/2018-02-28-retrospective/screenshare.jpg
 attendees:
 - Alaine Burns
 - Noemie Girard
@@ -25,7 +25,7 @@ Here is the proposed plan:
 3. Talk
 4. Define [S.M.A.R.T goals](https://plans-for-retrospectives.com/en/?id=13)
 
-{% include figure.html src="assets/workshops/2018-02-29-retrospective/screenshare.jpg" %}
+{% include figure.html src="assets/workshops/2018-02-28-retrospective/screenshare.jpg" %}
 
 # Topic: Catch up
 
@@ -64,7 +64,7 @@ Both have sample issues anyway.
 [Quality of Life Survey]: https://www.bristol.gov.uk/statistics-census-information/the-quality-of-life-in-bristol
 
 
-{% include figure.html src="assets/workshops/2018-02-29-retrospective/screenshare.jpg" %}
+{% include figure.html src="assets/workshops/2018-02-28-retrospective/screenshare.jpg" %}
 
 # Topic: Gaining confidence
 
@@ -80,7 +80,7 @@ He was looking for the big picture and thinks that kind of info should be on the
 A digital version of the sketches would make them more readable.
 
 
-{% include figure.html src="assets/workshops/2018-02-29-retrospective/physical-setup.jpg" %}
+{% include figure.html src="assets/workshops/2018-02-28-retrospective/physical-setup.jpg" %}
 
 # Topic: Learned from each other (positives)
 
@@ -115,7 +115,7 @@ It helped keeping in touch with external people. It was almost realtime.
 - Jekyll
 - Open Source all the things!
 
-{% include figure.html src="assets/workshops/2018-02-29-retrospective/london-snow.jpg" %}
+{% include figure.html src="assets/workshops/2018-02-28-retrospective/london-snow.jpg" %}
 
 
 # Topic: Things we would do differently
@@ -156,7 +156,7 @@ It helped keeping in touch with external people. It was almost realtime.
 - How to use the data?
 
 
-{% include figure.html src="assets/workshops/2018-02-29-retrospective/sticky-notes.jpg" %}
+{% include figure.html src="assets/workshops/2018-02-28-retrospective/sticky-notes.jpg" %}
 
 # Other comments
 
