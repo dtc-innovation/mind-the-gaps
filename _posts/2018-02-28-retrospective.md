@@ -130,10 +130,6 @@ It helped keeping in touch with external people. It was almost realtime.
 - Balancing blockers with alternatives.
 - Speaking up sooner when I encounter difficulties.
 
-# SMART Goals
-
-TBD.
-
 
 # Topic: Develop the toolbox
 
@@ -158,6 +154,10 @@ TBD.
 
 
 {% include figure.html src="assets/workshops/2018-02-28-retrospective/sticky-notes.jpg" %}
+
+# SMART Goals
+
+TBD.
 
 # Other comments
 
