@@ -64,8 +64,6 @@ Both have sample issues anyway.
 [Quality of Life Survey]: https://www.bristol.gov.uk/statistics-census-information/the-quality-of-life-in-bristol
 
 
-{% include figure.html src="assets/workshops/2018-02-28-retrospective/screenshare.jpg" %}
-
 # Topic: Gaining confidence
 
 Here is how the project is summarized by Romain:
