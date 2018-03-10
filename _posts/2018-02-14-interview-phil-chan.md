@@ -12,13 +12,14 @@ He is one of the brains behind the analysis of the [Quality of Life Survey][].
 
 > … to confirm what people _mean_.
 
-_Sugar intake_ is one the big new concerns for City Hall. Some questions about it have been commissionned. And it [comes through the NHS](https://www.england.nhs.uk/sugar-action/).
+_Sugar intake_ is one the big new concerns for City Hall. Some questions about it have been commissionned as part of the [Sugar Smart campaign](https://www.bristol.gov.uk/en_US/web/live-well-bristol/sugar-smart).
+[This campaign is supported nationally by NHS England](https://www.england.nhs.uk/sugar-action/).
 
 The challenge of the last question of the Quality of Life survey (an open question) is to extract unstructured content. It is difficult to analyse data when they are collected this way. They are still figuring out how to make the most out of it. It is a time consuming (thus expensive) analysis. Phil is not sure if we would face the same problem.
 
 > It is always _ward data_ which is difficult to obtain.
 
-Ward boundaries have changed over the past 10 years. This is also a result of how the sampling is now done–it is simpler but less accurate. They used to measure it at an [LSOA level](https://en.wikipedia.org/wiki/ONS_coding_systems).
+Ward boundaries have changed over the past 10 years. This is also a result of how the sampling is now done–it is simpler but less robust with poorer coverage. They used to measure it at an [LSOA level](https://en.wikipedia.org/wiki/ONS_coding_systems).
 
 {% include figure.html src="/assets/posts/2018-02-14-lunch-interview.jpg" %}
 
