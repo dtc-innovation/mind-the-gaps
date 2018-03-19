@@ -3,13 +3,30 @@
 # https://github.com/jekyll/minima/blob/master/_sass/minima.scss
 ---
 
-$base-font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+$base-font-family: Yantramanav, sans-serif;
+$content-width: 1000px;
+$base-font-size: 20px;
 $background-color: #fafafa;
 $text-color: #333;
 $brand-color: #357edd;
 
 @import "minima";
 @import "font-inconsolata";
+@import "font-fira-sans";
+@import "font-yantramanav";
+
+.site-title,
+.jumbotron,
+.site-nav,
+h1, h2, h3, h4, h5, h6 {
+	font-family: Fira Sans, sans-serif;
+	font-weight: 500;
+	letter-spacing: -0.04em;
+}
+
+.site-nav {
+	font-weight: normal;
+}
 
 .sr-only {
 	position: absolute;
@@ -47,7 +64,7 @@ blockquote {
 }
 
 .bold {
-	font-weight: bold;
+	font-weight: 500;
 }
 
 /*
