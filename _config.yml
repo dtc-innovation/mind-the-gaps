@@ -1,10 +1,10 @@
 title: Mind the Gaps
 description: |
-  Mind the Gaps is an **experiment** to bring citizen sensing closer to policy making. It is a **system** for open data collection about well-being and inequalities in cities.
+  Mind the Gaps is an **open toolbox** to measure and produce data around  wellbeing and inequalities in cities.
 
-  We invite citizens to **paint a more comprehensive** picture of their experience of their neighbourhood.
+  It offers a variety of methods to collect information (face to face interview guides, a conversational survey) and a system to collate insights.
 
-  It complements existing datasets with qualitative data at a neighbourhood level. This will aim to stimulate open discussions and help policy makers build more resilient cities.
+  Its aim is to fill the gaps in statistics by using different methods of collecting information, using tools to fit every audiences’ needs.
 footer_description: |
   We are an **independant data collective** of researchers, artists, developers and ethnographers.
   We are based in France 🇫🇷, London 🇬🇧 and Montréal 🇨🇦.
@@ -24,6 +24,10 @@ newsletter: https://tinyletter.com/mind-the-gaps
 slackin: https://slack.dtc-innovation.org
 slack_channel: projet-mind-the-gaps
 
+flags:
+  France: 🇫🇷
+  UK: 🇬🇧
+
 markdown: kramdown
 theme: minima
 plugins:
@@ -38,10 +42,13 @@ milestones:
 
 header_pages:
   - fr/index.md
-  - toolbox.md
-  - glossary.md
-  - research.md
   - about.md
+  - research/index.md
+
+research_header_pages:
+  - research/toolbox.md
+  - research/glossary.md
+  - research/about.md
 
 collections:
   contexts:
@@ -49,6 +56,13 @@ collections:
     permalink: /for/:name
   features:
     output: false
+
+defaults:
+  - scope:
+      path: "research"
+      type: "pages"
+    values:
+      layout: page-research
 
 exclude:
   - Gemfile

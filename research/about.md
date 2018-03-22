@@ -1,7 +1,5 @@
 ---
-layout: page
 title: About
-permalink: /about/
 ---
 
 **Mind the Gaps** is a project funded thanks to a _tender_ organised by the [Open Data Institute (ODI)][]. The project is facilitated by a joint of [dtc innovation][] and [Alaine Burns][].

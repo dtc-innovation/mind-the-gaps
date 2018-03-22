@@ -1,0 +1,31 @@
+a.cta, a.cta:link, a.cta:visited {
+  background: $brand-color;
+  border: 1px solid $third-color;
+  border-radius: 3px;
+  padding: 3px 8px;
+  white-space: nowrap;
+
+  &, &:hover {
+    box-shadow: none;
+  }
+
+  &:hover {
+    color: lighten($third-color, 20%);
+  }
+
+  &.cta--disabled {
+    border-color: $grey-color;
+    color: $grey-color;
+    cursor: not-allowed;
+  }
+}
+
+.actions {
+  list-style: none;
+  margin: ($spacing-unit / 2) 0;
+
+  > li {
+    display: inline-block;
+    margin-bottom: .5em;
+  }
+}

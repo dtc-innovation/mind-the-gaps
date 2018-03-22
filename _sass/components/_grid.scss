@@ -1,0 +1,55 @@
+.grid {
+	display: flex;
+	list-style: none;
+	// justify-content: space-between;
+	margin: 0;
+	padding: 0;
+
+	> li {
+		flex-grow: 1;
+		flex-basis: 0;
+		padding: $spacing-unit;
+	}
+
+	&.grid--3 {
+		flex-flow: row wrap;
+
+		> li {
+			width: 30%;
+		}
+	}
+
+	&.grid--2 {
+		flex-flow: row wrap;
+
+		> li {
+			width: 50%
+		}
+	}
+
+	> li {
+		&:nth-child(1n) {
+			background: lighten($brand-color, 5%);
+		}
+
+		&:nth-child(2n) {
+			background: lighten($brand-color, 10%);
+		}
+
+		&:nth-child(3n) {
+			background: lighten($brand-color, 15%);
+		}
+
+		&:nth-child(4n) {
+			background: lighten($brand-color, 20%);
+		}
+	}
+
+	&.grid--seemless > li {
+		background: transparent;
+	}
+}
+
+.grid--align-center {
+	text-align: center;
+}

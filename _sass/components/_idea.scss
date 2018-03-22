@@ -1,0 +1,33 @@
+.idea {
+  padding: ($spacing-unit*2) 0;
+  position: relative;
+
+  h2 + .subtle {
+    margin-top: -($spacing-unit / 2);
+  }
+
+  &:not(:first-of-type)::before {
+    $width: 150px;
+
+    content: "";
+    display: inline-block;
+    position: absolute;
+    box-shadow: 0 0 0 3px $text-color;
+    left: 50%;
+    margin-left: -($width / 2);
+    top: 0;
+    width: $width;
+  }
+
+
+  &:nth-child(2n) {
+    background: lighten($brand-color, 5%);
+  }
+  &:nth-child(3n) {
+    background: lighten($brand-color, 10%);
+  }
+
+  h2, .subtle {
+    color: $secondary-color;
+  }
+}

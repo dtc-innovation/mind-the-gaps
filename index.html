@@ -1,0 +1,191 @@
+---
+title: An experiment about citizen sensing, policy making and open data collection
+layout: home
+---
+
+<section class="intro">
+  <header class="wrapper">
+    <h1 class="site-title">{{ site.title }}</h1>
+
+    <div class="description">{{ site.description | markdownify }}</div>
+  </header>
+</section>
+
+
+
+<section id="features">
+  <ul class="grid grid--align-center">
+    {% assign features = site.features | sort: 'sort_order' %}
+    {% for feature in features %}
+    <li>
+      <header>
+      {% include icon.html id=feature.icon class="icon icon--banner" %}
+      </header>
+
+      <h2 class="bold">{{ feature.title }}</h2>
+
+      {{ feature.excerpt | markdownify }}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="locations">
+  <header class="wrapper">
+    <h1>Test-bed Cities</h1>
+
+    <div class="description">
+      <p>Places where we are currently running the <em>pilot</em>.</p>
+    </div>
+  </header>
+
+  <ul class="grid grid--align-center">
+    {% for city in site.data.cities %}
+    <li>
+      <header>
+        {% include icon.html id="city" class="icon icon--banner" %}
+      </header>
+
+      <h2 class="bold">
+        {{ city.name }}
+        {{ site.flags[ city.country ] }}
+      </h2>
+
+      <ul class="actions">
+        {% if city.survey %}
+        <li><a href="{{ city.survey.form_url }}" class="cta">Take the survey</a></li>
+        <li><a href="{{ city.survey.data_url}}" class="cta">Get the data</a></li>
+        {% else %}
+        <li><a href="#" class="cta cta--disabled">Take the survey</a></li>
+        <li><a href="#" class="cta cta--disabled">Get the data</a></li>
+        {% endif %}
+      </ul>
+    </li>
+    {% endfor %}
+
+    <li>
+      <header>
+        {% include icon.html id="city" class="icon icon--banner" %}
+      </header>
+
+      <h2 class="bold">Yours?</h2>
+
+      <ul class="actions">
+        <li><a href="mailto:{{ site.email }}" class="cta">Contact us</a></li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section id="ideas">
+  <header class="wrapper">
+    <h1>Key Aspects</h1>
+  </header>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Combining quantitative and qualitative data</h2>
+      <p class="subtle">A new perception and use of data</p>
+
+      <div class="idea--content">
+        <p>Running surveys can be a time-consuming and costly thing. More often than not,  obtaining representative results is even harder. (Participants tend to be from middle class backgrounds).</p>
+
+        <p>Combining quantitative sources (survey results and statistics) with qualitative sources (face to face interviews and insights on the field) leads to better representation and a more comprehensive picture.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Reaching all audiences</h2>
+      <p class="subtle">Keeping it conversational</p>
+
+      <div class="idea--content">
+        <p>In order to reach the best representativity, the toolbox has to be accessible and inclusive, available for different research contexts and varying degrees of computer literacy.</p>
+
+        <p>In certain contexts, face to face interviews or a workshop will yield better results than a survey. On the other hand, surveys can provide more responses. Why choose? All methods are available.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Rich, localised data</h2>
+
+      <div class="idea--content">
+        <p>National, regional and even local statistics can fail to represent the finer details of citizen’s situations - using city-wide data at best, there’s a struggle to represent inequalities in cities. Averages erase discrepancies between neighborhoods.</p>
+
+        <p>By collecting geographically-precise data at the neighborhood level, we hope to produce better, more faithful picture of cities and their challenges, and to best identify the most pressing issues.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Enabling evidence-based policy making</h2>
+
+      <div class="idea--content">
+        <p>Reality by the numbers is only a partial view. Our initiative strives to shift data perceptions within local governments to help them see the value in a mixed methods approach (qualitative and quantitative data combined).</p>
+
+        <p>By bringing evidence & data closer to decision-makers, we hope to help policy makers become data-informed.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Participatory cities</h2>
+
+      <div class="idea--content">
+        <p>Cities are getting more and more involved in rethinking how public value is created, cultivated and used to solve societal challenges.</p>
+
+        <p>They are opening up to enablers within citizens and community organisations to open their doors to being participatory and resilient.</p>
+
+        <p>Some things, like the benefit of citizen engagement, are hardly quantifiable.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Anonymous and open data by default</h2>
+
+      <div class="idea--content">
+        <p>Creating an information commons accessible to all is part of the core values of the project. Refined geographical data will be collected, but no personal data (neither age, gender, faith, sexual orientation or otherwise).</p>
+
+        <p>The data produced can therefore be open by default.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="idea inverted">
+    <div class="wrapper">
+      <h2>Adaptable Tools</h2>
+      <p class="subtle">Different needs and cultural differences taken into account</p>
+
+      <div class="idea--content">
+        <p>Although we aim to make a replicable toolkit to measure wellbeing and inequalities, there’s little chance the questions wills be “one size fits all”. The tools are free to use and adapt to suit the needs of the people using them.</p>
+
+        <p>Whether you are a citizen, a community organisation or a local authority, these tools can help you create a system to collect the information you’re seeking.</p>
+      </div>
+    </div>
+  </section>
+</section>
+
+<section id="principles">
+  <header class="wrapper">
+    <h1>Project Principles</h1>
+  </header>
+
+  <div class="wrapper">
+    <ul class="grid grid--seemless grid--align-center">
+     {% for principle in site.data.principles %}
+     <li>
+       {% include icon.html id="tick" class="icon icon--large" %}
+       <br>
+       {{ principle }}
+     </li>
+     {% endfor %}
+    </ul>
+   </div>
+</section>

@@ -1,0 +1,8 @@
+- name: Bristol
+  country: UK
+  survey:
+    form_url: /surveys/uk/bristol/
+    data_url: https://docs.google.com/spreadsheets/d/1kixfIHM6ovufUTgTS301qz3aDzzJzmGyYA3kHX1QltE/export?format=csv
+
+- name: Bordeaux
+  country: France

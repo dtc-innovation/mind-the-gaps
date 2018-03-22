@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: home-research
 menu_title: Research
 title: Research news, workshops and outcomes
 permalink: /research/

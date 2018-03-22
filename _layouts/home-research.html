@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-research
 ---
 
 {% assign cities = site.pages | where: 'layout', 'city' %}
@@ -27,7 +27,7 @@ layout: default
 </section>
 
 <section class="work">
-  <article>
+  <article style="background-image: url({{ '/assets/cities/uk/bristol.jpg' | relative_url }})">
     <p>
       <a href="{{ last_presentation.url | relative_url }}">
         👓

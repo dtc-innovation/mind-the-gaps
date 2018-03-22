@@ -1,0 +1,56 @@
+
+form {
+	margin: .5em 0;
+}
+
+label {
+ 	clear: both;
+ 	display: block;
+ 	margin: 8px 0;
+ 	font-weight: bold;
+ 	position: relative;
+ 	line-height: 150%;
+ 	font-family: Helvetica;
+ 	font-size: 14px;
+ 	color: #333333;
+ }
+
+.email-group input {
+	width: 60%;
+	margin: 0 10px 0 0;
+	min-width: 200px;
+	padding: 12px 10px 11px 10px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	font-size: 14px;
+	box-shadow: none;
+}
+
+.button, .button-small {
+	white-space: nowrap;
+	height: 40px;
+	line-height: 40px;
+	margin: 0 5px 0 0;
+	padding: 0 22px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 14px;
+	cursor: pointer;
+	border: 2px solid $text-color;
+	border-radius: 4px;
+	vertical-align: top;
+}
+
+.button {
+ font-family: Helvetica, Arial, sans-serif;
+ color: #FFFFFF;
+ background-color: $brand-color;
+}
+
+.email-group .button {
+	margin: 0;
+	min-width: 75px;
+}

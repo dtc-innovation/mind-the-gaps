@@ -1,44 +1,15 @@
 ---
-layout: default
 ---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<body class="home">
 
-{% assign recent_posts = site.posts | slice: 0,2 %}
+  <main class="page-content" aria-label="Content">
+    {{ content }}
+  </main>
 
-<section class="intro">
-  {{ content }}
-</section>
-
-<section id="features">
-  <ul class="grid grid--3 grid--align-center">
-  {% for feature in site.features %}
-  <li>
-    <header>
-    {% include icon.html id=feature.icon class="icon icon--banner" %}
-    </header>
-
-    <h2 class="bold">{{ feature.title }}</h2>
-
-    {{ feature.excerpt | markdownify }}
-  </li>
-  {% endfor %}
-  </ul>
-</section>
-
-<section class="jumbotron h1">
-  Ethnographic research can drive decision-making by <strong>generating human qualitative data</strong>.
-</section>
-
-
-<section id="principles" class="jumbotron">
-  <h1>Our Principles</h1>
-
-  <ul class="grid">
-    {% for principle in site.data.principles %}
-    <li>
-      {% include icon.html id="tick" class="icon icon--large" %}
-
-      {{ principle }}
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+{% include newsletter.html %}
+{% include footer.html %}
+</body>
+</html>

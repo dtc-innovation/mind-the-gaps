@@ -2,8 +2,8 @@
 
  <div class="wrapper">
    {% assign default_paths = site.pages | map: "path" %}
-   {% assign page_paths = site.header_pages | default: default_paths %}
-   <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+   {% assign page_paths = include.menu_pages | default: site.header_pages | default: default_paths %}
+   <a class="site-title" rel="author" href="{{ include.home | default: '/' | relative_url }}">{{ include.title | default: site.title | escape }}</a>
 
    {% if page_paths %}
      <nav class="site-nav">
