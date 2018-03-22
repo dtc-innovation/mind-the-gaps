@@ -71,7 +71,7 @@ layout: home
       <h2 class="bold">Yours?</h2>
 
       <ul class="actions">
-        <li><a href="mailto:{{ site.email }}" class="cta">Contact us</a></li>
+        <li><a href="mailto:{{ site.email }}?subject=About+running+the+pilot" class="cta">Contact us</a></li>
       </ul>
     </li>
   </ul>
@@ -188,4 +188,66 @@ layout: home
      {% endfor %}
     </ul>
    </div>
+</section>
+
+
+<section id="roadmap">
+  <header class="wrapper">
+    <h1>Roadmap</h1>
+
+    <div class="description">
+      <p>
+        We are interested to develop the project further.
+        Their making will be <a href="{{ '/research/' | relative_url }}">thoroughly documented</a>.
+      </p>
+    </div>
+  </header>
+
+  <ul class="grid grid--align-center">
+    <li>
+      <header>
+        {% include icon.html id="brick" class="icon icon--banner" %}
+      </header>
+
+      <h2 class="bold">Survey v2</h2>
+
+      <p>
+        We have strong ideas on how to make the survey accessible to all.
+        It would shape a better data structure, cleaner and easier to analyse.
+      </p>
+
+      <ul class="actions">
+        <li><a href="mailto:{{ site.email }}?subjet=About+survey+roadmap" class="cta">Will it help you?</a></li>
+      </ul>
+    </li>
+    <li>
+      <header>
+        {% include icon.html id="brick" class="icon icon--banner" %}
+      </header>
+
+      <h2 class="bold">Workshop Approach</h2>
+
+      <p>
+        We'd like to develop a group-based approach to generate data.
+        Community groups would become autonomous.
+      </p>
+
+      <ul class="actions">
+        <li><a href="mailto:{{ site.email }}?subjet=About+workshop+approach+roadmap" class="cta">Will it help you?</a></li>
+      </ul>
+    </li>
+    <li>
+      <header>
+        {% include icon.html id="brick" class="icon icon--banner" %}
+      </header>
+
+      <h2 class="bold">Visual Insights</h2>
+
+      <p>We think data should be visualized in a way which informs at first sight.</p>
+
+      <ul class="actions">
+        <li><a href="mailto:{{ site.email }}?subjet=About+visual+insights+roadmap" class="cta">Will it help you?</a></li>
+      </ul>
+    </li>
+  </ul>
 </section>
