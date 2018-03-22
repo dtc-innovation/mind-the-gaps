@@ -22,6 +22,7 @@ $text-color: #f5f5f5;
 @import "font-fira-sans";
 @import "font-yantramanav";
 
+@import "mixins";
 
 @import "components/intro";
 @import "components/idea";
@@ -34,12 +35,20 @@ $text-color: #f5f5f5;
 @import "shared";
 
 h1 {
-	font-size: 4em;
+	@include from-device($on-palm) {
+		font-size: 4em;
+	}
+
 	font-weight: 400;
 }
 
 p strong {
 	color: $secondary-color;
+}
+
+.intro {
+  margin-top: -$spacing-unit;
+  min-height: 85vh;
 }
 
 a, a:link, a:visited {
@@ -50,5 +59,21 @@ a, a:link, a:visited {
 		color: darken($text-color, 5%);
 		box-shadow: inset 0 -0.8rem 0 lighten($brand-color, 10%);
 		text-decoration: none;
+	}
+}
+
+#principles {
+	.grid {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+		font-size: 1.6em;
+
+		> li {
+			flex-grow: 1;
+			flex-basis: auto;
+			padding-left: 0;
+			padding-right: 0;
+		}
 	}
 }

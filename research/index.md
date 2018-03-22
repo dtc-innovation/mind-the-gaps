@@ -5,6 +5,9 @@ title: Research news, workshops and outcomes
 permalink: /research/
 ---
 
-📬 [subscribe to project updates](#subscribe), 👀 learn about the [the project outcomes]({{ '/outcomes/' | relative_url }}) or 🤓 dig into the [GitHub project page]({{ site.github_project }}).
+Welcome to the **research website** of the
+[Mind the Gaps]({{ '/' | relative_url }}) project.
+
+The intent of this space is to **document** what we do using **agile practices** and a **multidisciplinary approach**.
 
 Thanks for looking around!

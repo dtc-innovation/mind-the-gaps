@@ -251,19 +251,6 @@ table {
 	}
 }
 
-#principles {
-	.grid {
-		justify-content: space-between;
-		font-size: 1.6em;
-
-		> li {
-			flex-basis: auto;
-			padding-left: 0;
-			padding-right: 0;
-		}
-	}
-}
-
 #newsletter {
 	display: flex;
 	align-items: center;

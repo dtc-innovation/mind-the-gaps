@@ -1,29 +1,35 @@
 .grid {
-	display: flex;
 	list-style: none;
 	// justify-content: space-between;
 	margin: 0;
 	padding: 0;
 
 	> li {
-		flex-grow: 1;
-		flex-basis: 0;
 		padding: $spacing-unit;
 	}
 
-	&.grid--3 {
-		flex-flow: row wrap;
+	@include from-device($on-palm) {
+		display: flex;
 
 		> li {
-			width: 30%;
+			flex-grow: 1;
+			flex-basis: 0;
 		}
-	}
 
-	&.grid--2 {
-		flex-flow: row wrap;
+		&.grid--2 {
+			flex-flow: row wrap;
 
-		> li {
-			width: 50%
+			> li {
+				width: 50%
+			}
+		}
+
+		&.grid--3 {
+			flex-flow: row wrap;
+
+			> li {
+				width: 30%;
+			}
 		}
 	}
 
