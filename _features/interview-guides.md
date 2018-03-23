@@ -4,4 +4,4 @@ icon: guide
 sort_order: 1
 ---
 
-Run your own face to face interviews to design the survey on your city realm.
+A guide to face to face interviews to design and run the survey in your city.
