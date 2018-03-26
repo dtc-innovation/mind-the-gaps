@@ -1,5 +1,0 @@
----
-title: Community Group
----
-
-Foo
