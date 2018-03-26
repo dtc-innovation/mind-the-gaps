@@ -41,7 +41,7 @@ milestones:
   work_week_end: 2018-01-19T20:00:00
 
 header_pages:
-  - fr/index.html
+  # - fr/index.html
   - about.md
   - research/index.md
 
