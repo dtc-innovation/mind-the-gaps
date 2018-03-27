@@ -1,7 +1,8 @@
 ---
 ---
+{%- assign lang = page.lang | default: site.lang | default: "en" -%}
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ lang }}">
 {% include head.html %}
 <body class="home">
 
@@ -11,7 +12,7 @@
     {{ content }}
   </main>
 
-{% include newsletter.html %}
-{% include footer.html %}
+{% include {{ lang }}/newsletter.html %}
+{% include {{ lang }}/footer.html %}
 </body>
 </html>
