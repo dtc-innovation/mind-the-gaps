@@ -2,7 +2,7 @@ title: Mind the Gaps
 description: |
   Mind the Gaps is an **open toolbox** to measure and produce data around  wellbeing and inequalities in cities.
 
-  We designed a variety of methods to collect this information — ethnographic interview guides, a conversational survey.
+  We designed a variety of methods to collect this information — interview guides and a conversational survey.
 
   Its aim is to fill the gaps in statistics by using **human centred methods** of information collection.
 footer_description: |
@@ -15,7 +15,7 @@ footer_description: |
   And will never do, not even for money.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mind-the-gaps.org"
-lang: en_GB
+lang: en
 twitter_username:
 github_username:
 email: "&#x68;&#x65;&#x6c;&#x6c;&#x6f;&#x40;&#x6d;&#x69;&#x6e;&#x64;&#x2d;&#x74;&#x68;&#x65;&#x2d;&#x67;&#x61;&#x70;&#x73;&#x2e;&#x6f;&#x72;&#x67;"
@@ -41,7 +41,7 @@ milestones:
   work_week_end: 2018-01-19T20:00:00
 
 header_pages:
-  # - fr/index.html
+  - fr/index.html
   - about.md
   - research/index.md
 

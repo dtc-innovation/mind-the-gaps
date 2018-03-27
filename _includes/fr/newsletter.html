@@ -1,0 +1,19 @@
+<section class="wrapper" id="newsletter">
+  {% include icon.html id="newsletter" class="icon icon--huge" %}
+
+  <div>
+    <h2>Restez informé·e·s</h2>
+
+    <form action="{{ site.newsletter }}" method="post">
+      <div class="email-group">
+        <label for="email" class="sr-only">Courriel</label>
+        <input type="email" name="email" id="subscribe" placeholder="your-email@something.net" required>
+        <button class="button">Je m'abonne</button>
+      </div>
+    </form>
+
+    <p>
+      On vous enverra les <em>grandes lignes</em> du projet de temps à autre.
+    </p>
+  </div>
+</section>

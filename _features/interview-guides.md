@@ -4,4 +4,5 @@ icon: guide
 sort_order: 1
 ---
 
-A guide to face to face interviews to design and run the survey in your city.
+A guide for face to face interviews.<br>
+Bootstrap and customise the survey to your city.
