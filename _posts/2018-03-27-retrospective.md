@@ -3,6 +3,7 @@ title: Retrospective of the day
 image: assets/posts/2018-03-27-city-hall-antenna.jpg
 tags:
 - retrospective
+- bordeaux
 ---
 
 Here are the questions we asked to ourselves after the end of the day:
