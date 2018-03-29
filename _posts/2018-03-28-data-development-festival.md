@@ -89,6 +89,8 @@ The cultural context is something to be aware of.
 For example, men would not go as easily up to women in some arabic countries. In some neighbourhoods, our clothing would create a divide between us and the respondants.
 **Diversity of interviewers is required in order to achieve representative results**.
 
+{% include figure.html src="assets/posts/2018-03-28-unicode-is-hard.jpg" alt="Unicode is hard (2018)" %}
+
 
 # More than social inequalities
 
