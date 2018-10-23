@@ -74,7 +74,7 @@ The burndown of the project will rely on realistic priorities set with the partn
 
 
 [dtc innovation]: https://dtc-innovation.org/
-[Open Data Institute call for tender]: https://theodi.org/blog/call-for-proposals-collaborative-data-innovation-projects-between-french-and-uk-cities
+[Open Data Institute call for tender]: https://theodi.org/article/call-for-proposals-collaborative-data-innovation-projects-between-french-and-uk-cities
 [itv-article]: http://www.itv.com/news/westcountry/2016-08-11/report-finds-12-year-life-expectancy-gap-in-bristol/
 [Quality of Life Survey]: https://www.bristol.gov.uk/statistics-census-information/the-quality-of-life-in-bristol
 [Bordeaux Wards Diagnosis]: http://www.bordeaux.fr/ebx/pgPresStand8.psml?_nfpb=true&_pageLabel=pgPresStand8&classofcontent=presentationStandard&id=106473
