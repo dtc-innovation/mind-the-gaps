@@ -9,7 +9,7 @@
      <div class="footer-col footer-col-3">
        <ul class="contact-list">
          {% if site.slackin %}
-           <li>🗣 <a class="u-email" href="{{ site.slackin }}" title="Join us on Slack on the channel #{{ site.slack_channel }}">Venez causer sur Slack</a></li>
+           <li>🗣 <a class="u-email" href="{{ site.slackin }}?channel={{ site.slack_channel}}" title="Join us on Slack on the channel #{{ site.slack_channel }}">Venez causer sur Slack</a></li>
          {% endif %}
          {% if site.email %}
            <li>✍️ <a class="u-email" href="mailto:{{ site.email }}">Envoyez-nous un courriel</a></li>
