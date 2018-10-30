@@ -1,5 +1,6 @@
 ---
 title: Interview with Fanny Gabriel
+lang: fr
 tags:
 - interviews
 - bordeaux
