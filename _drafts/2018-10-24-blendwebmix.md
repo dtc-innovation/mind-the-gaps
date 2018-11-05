@@ -353,8 +353,108 @@ Un conseil : le studio Design Friction a élaboré un atelier de design fiction 
 {% include figure.html src="/assets/presentations/2018-10-24-blendwebmix/slide-54.jpg" %}
 
 
-# Bibliographie
-_À venir_
+# Ressources et bibliographie
+
+#### Actualités
+• [Sidewalk Toronto: Gaslighting Toronto Residents Backfired — Capacity’s Built and Power’s Shifted](https://medium.com/@biancawylie/sidewalk-toronto-gaslighting-toronto-residents-backfired-capacitys-built-and-power-s-shifted-77c455b150a3)  
+• [Barking and Dagenham Borough Explorer](https://lbbd.emu-analytics.net/view/950db2c7-1a3b-448d-9b21-444a0ec7b5e0(rightBar:appinfo)?basemapDetail=1&zoom=4.6&lng=-0.58456&lat=54.91938)
+
+#### Citizen sensing
+• [Making sense toolkit](http://making-sense.eu/)  
+• [Smart Citizen Barcelona](https://smartcitizen.me/)  
+• [The Bristol Approach to Citizen Sensing](http://www.bristolapproach.org/)  
+• [International sensing projects](http://www.bristolapproach.org/international-sensing-projects/)  
+• [Citizen Sense](https://citizensense.net/about/)  
+• [We Observe](https://www.weobserve.eu/)  
+• [Participatory City](http://www.participatorycity.org/)  
+• [Fab city](https://fab.city/#global-initiative)  
+• [Barcelona is leading the fightback against smart city surveillance](https://www.wired.co.uk/article/barcelona-decidim-ada-colau-francesca-bria-decode)  
+• [De la critique théorique au « faire » : la transformation du droit à la ville à travers les communs madrilènes](https://www.metropolitiques.eu/De-la-critique-theorique-au-faire-la-transformation-du-droit-a-la-ville-a.html)  
+• [La Smart City belge fait la part belle au citoyen](https://www.citizenlab.co/blog/smart-city/smart-city-belgique-barometre-2018/?lang=fr)  
+• [BarcelonaNow at “The Web Conference 2018”](https://www.decodeproject.eu/blog/barcelonanow-%E2%80%9C-web-conference-2018%E2%80%9D)  
+
+#### Initiatives européennes connexes
+• [Decode project - "Giving people ownership of their personal data"](https://decodeproject.eu/)  
+• [Creating interactive visualisations to make sense of city data](https://www.decodeproject.eu/blog/creating-interactive-visualisations-make-sense-city-data)  
+• [Replicate - "Renaissance of Places with Innovative Citizenship and Technology"](https://replicate-project.eu/)  
+
+#### Recherche "mixed methods" - qualitative et quantitative
+• [Réseau recherche-action](http://recherche-action.fr/)  
+• [Why Big Data Needs Thick Data](https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7)  
+• [Handbook for Qualitative research](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-qualitative-research/book242504)  
+• [Why Big Data needs Thick Data](https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7)  
+• [On Surveys](https://medium.com/mule-design/on-surveys-5a73dda5e9a0)  
+• [Supporting community voices: the power of ethnographic, participatory and peer research](https://www.siceurope.eu/resources/research-portal/5-things-we-learned-our-last-webinar-supporting-community-voices-power)  
+• [How Small Data Can Improve Access to Justice for the Poor](https://www.opensocietyfoundations.org/voices/how-small-data-can-improve-access-justice-poor)  
+
+#### Innovation sociale
+• [Design éco-social : convivialités, pratiques situées & nouveaux communs](http://www.readit.fr/index.php?/catalogue/design-ecosocial/)
+• [Sonar, un outil pour dépasser l’injonction à l’innovation](http://www.la27eregion.fr/sonar-un-outil-pour-depasser-linjonction-a-linnovation/)  
+• [Mieux comprendre la recherche-action](http://www.la27eregion.fr/mieux-comprendre-la-recherche-action/)  
+• [8 must-read social innovation reports](http://www.socialinnovationacademy.eu/8-must-read-social-innovation-reports/)  
+• [Societal Innovation & Our Future Cities](https://provocations.darkmatterlabs.org/the-societal-contract-for-innovation-15593ae9a1d4)  
+• [Designing systemically for change in an emerging field of tech ethics](https://medium.com/doteveryone/designing-systemically-for-change-in-an-emerging-field-of-tech-ethics-23c51818ecaf)  
+• [Sans les collectivités, pas de salut pour la ville intelligente](https://www.lagazettedescommunes.com/562150/sans-les-collectivites-pas-de-salut-pour-les-villes-intelligentes/)  
+• [Data ethics canvas](https://theodi.org/the-data-ethics-canvas)  
+• [Ethics kit](http://ethicskit.org/)  
+• [Announcing the open standards for data guidebook](https://theodi.org/article/announcing-the-open-standards-for-data-guidebook)  
+• [Six creative ways to engage the public in innovation policy](https://www.nesta.org.uk/blog/six-creative-ways-to-engage-the-public-in-innovation-policy/)  
+• [What public sector innovators have to say about using data to solve real-world problems](https://www.nesta.org.uk/blog/what-public-sector-innovators-have-to-say-about-using-data-to-solve-real-world-problems/)  
+
+#### Inégalités et qualité de vie
+• [OECD Better Life Index](http://www.oecdbetterlifeindex.org/)  
+• [Classement Mercer - Qualité de vie 2018](https://www.mercer.fr/newsroom/classement-2018-qualite-de-vie.html)  
+• [Sustainable Development Goals](https://sustainabledevelopment.un.org/partnerships/) - United Nations - "Leave no one behind"  
+
+**Royaume-Uni**
+
+• [UK smart cities index - Huawei](https://e.huawei.com/uk/marketing-material/onLineView?MaterialID={A81CFA81-C7A8-4E8F-A088-963C7E73F3CC})  
+• [Quality of Life Bristol](https://www.bristol.gov.uk/statistics-census-information/the-quality-of-life-in-bristol)  
+• [Happy City Index](http://www.happycity.org.uk/)
+• [Understanding local needs for wellbeing data](http://www.happycity.org.uk/wp-content/uploads/2017/12/understanding-wellbeing-locally-Nov-2017-links.pdf)
+• [Indices of deprivation](https://www.gov.uk/government/collections/english-indices-of-deprivation)  
+• [Office for National Statistics - Well-being](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing)
+
+**France**
+
+• [Observatoire des inégalités - le comparateur des communes](https://www.inegalites.fr/Niveau-de-vie-et-inegalites-testez-votre-commune)  
+• [Datagouv - Quartiers prioritaires de la politique de la ville](http://www.data.gouv.fr/fr/datasets/quartiers-prioritaires-de-la-politique-de-la-ville-qpv/)
+
+**Ailleurs**
+
+• [City Health Dashboard](https://www.cityhealthdashboard.com)
+
+#### Stratégies de villes résilientes
+
+• [100 resilient cities](https://www.100resilientcities.org/)  
+• [Audacities - Innover et gouverner dans la ville numérique réelle](https://www.iddri.org/sites/default/files/PDF/Publications/Hors%20catalogue%20Iddri/201804-audacities-rapport.pdf) (Fing et Iddri) -  sections "Gouverner la ville numérique réelle avec les citoyens" et "Piste  d’innovation.  médiateur,  gestionnaire  de communauté...  une compétence à reconnaître et développer"  
+• [‘Smart London Listening Exercise’](https://medium.com/@SmartLondon/a-smarter-london-together-listening-exercise-for-a-new-smart-london-plan-51be7d9ca203)  
+• [Bristol resilience strategy](https://www.bristol.gov.uk/policies-plans-strategies/bristol-resilience-strategy)
+
+#### Ressources critiques sur la smart city
+• [Civic City, Notes pour le design d’une ville sociale](https://editions-b42.com/produit/civic-city-notes-pour-le-design-dune-ville-sociale/)  
+• [Smart cities need thick data, not big data](https://www.theguardian.com/science/political-science/2018/apr/18/smart-cities-need-thick-data-not-big-data)  
+
+"Residents were learning that data is rarely neutral. The kinds of data gathered, the methods used, how it gets interpreted, what gets overlooked, the context in which it is generated, and by whom, and what to do as a result, are all choices that shape the facts of a matter."
+
+"Data can only mobilise people and change things when it becomes thick with social meaning."
+
+"Going beyond the Smart City demands something its technocratic efficiency is supposed to make redundant: investment in old-fashioned, street-level skills in community development."
+
+• [Flaws of the smart city](http://flawsofthesmartcity.com/)   
+• [Stop saying 'smart cities'](https://www.theatlantic.com/amp/article/553052)  
+• [Beyond Smart Cities - Towards Humane, Sociable and Cooperative Hybrid Cities](https://re-publica.com/en/session/beyond-smart-cities-towards-humane-sociable-and-cooperative-hybrid-cities)  
+• [Smart cities are for the rich — we need to change that](https://thenextweb.com/syndication/2018/09/26/smart-cities-are-for-the-rich/)  
+• [Even Alphabet is having trouble reinventing smart cities](https://www.technologyreview.com/the-download/611763/even-alphabet-is-having-trouble-reinventing-smart-cities/)  
+• [Beyond Smart Cities - Towards Humane, Sociable and Cooperative Hybrid Cities](https://re-publica.com/en/session/beyond-smart-cities-towards-humane-sociable-and-cooperative-hybrid-cities)  
+• [The fight against Google’s smart city](https://www.washingtonpost.com/news/theworldpost/wp/2018/08/08/sidewalk-labs/?noredirect=on&utm_term=.42382d80ce08)  
+
+"There is nothing innovative about partnering with a monopoly.”
+
+"It’s one thing to willingly install Alexa in your home. It’s another when publicly owned infrastructure — streets, bridges, parks and plazas — is Alexa, so to speak."
+
+• [Smart Citizens, not Smart Cities](http://avenirdespixels.net/aralbalkan1/)
+
 
 # Rétrospective
 _À venir_
