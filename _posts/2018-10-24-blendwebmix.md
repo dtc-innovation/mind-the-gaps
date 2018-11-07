@@ -9,9 +9,9 @@ Le 24 octobre, nous avons présenté Mind the Gaps à la conférence lyonnaise [
 
 {% include figure.html src="/assets/presentations/2018-10-24-blendwebmix/slide-01.png" %}
 
-• [Lire le transcript de la présentation](#le-transcript-de-la-conference)  
+• Lire [le transcript de la conférence](#le-transcript-de-la-conférence)  
 • [Les ressources et la bibliographie](#ressources-et-bibliographie)  
-• [Lire la rétrospective](https://mind-the-gaps.org/2018/11/05/retrospective)
+• [Lire la rétrospective](https://mind-the-gaps.org/2018/11/05/retrospective)  
 📄 [Télécharger le support de présentation]({{ 'assets/presentations/2018-10-24-blendwebmix/Mind the Gaps - BlendWebmix 2018.pdf' | relative_url }}) (PDF document, ~20MB)
 
 ## Le résumé
@@ -34,7 +34,7 @@ Pourquoi avons-nous pris le parti de données anonymisées et ouvertes ?
 
 Nous aborderons les questions clé du projet ainsi que notre méthodologie de documentation sur le terrain.
 
-## [Le transcript de la conférence](#le-transcript-de-la-conference)
+## [Le transcript de la conférence](#le-transcript-de-la-conférence)
 
 {% include figure.html src="/assets/presentations/2018-10-24-blendwebmix/slide-02.png" %}
 
