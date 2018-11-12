@@ -9,6 +9,7 @@ Le 24 octobre, nous avons présenté Mind the Gaps à la conférence lyonnaise [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D8PeqAlTykI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 👁 • Lire [le transcript de la conférence](#le-transcript-de-la-conférence)  
 📚 • [Les ressources et la bibliographie](#ressources-et-bibliographie)  
 🌀 • [Lire la rétrospective](https://mind-the-gaps.org/2018/11/05/retrospective)  
