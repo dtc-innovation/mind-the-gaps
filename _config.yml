@@ -13,8 +13,8 @@ footer_description: |
   [dtc innovation](https://dtc-innovation.org).
   We do not track nor collect any personal data.
   And will never do, not even for money.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dtc-innovation.github.io/mind-the-gaps/"
+baseurl: "/mind-the-gaps" # the subpath of your site, e.g. /blog
+url: "https://dtc-innovation.github.io"
 lang: en
 twitter_username:
 github_username:

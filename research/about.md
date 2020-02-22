@@ -25,7 +25,7 @@ The collective was formed of 4 persons:
 
 We value public money and thus, we want to be transparent on how we spent it to develop the project.
 
-{% include table.html data=site.data.spendings.odi-grant money_sum='Amount' %}
+{% include table.html data=site.data.spendings money_sum='Amount' %}
 
 ## Time Accountability
 
