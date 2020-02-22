@@ -1,0 +1,16 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Jekyll Action
+      uses: helaili/jekyll-action@1.0
