@@ -18,7 +18,7 @@ jobs:
         bundler-cache: true
 
     - name: Build website
-      run: bundle exec jekyll build --baseurl https://dtc-innovation.github.io/mind-the-gaps/
+      run: bundle exec jekyll build
 
     - name: Publish to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
