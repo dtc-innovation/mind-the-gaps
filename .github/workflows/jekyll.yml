@@ -17,9 +17,6 @@ jobs:
       with:
         bundler-cache: true
 
-    - name: Install dependencies
-      run: bundle install
-
     - name: Build website
       run: bundle exec jekyll build --baseurl https://dtc-innovation.github.io/mind-the-gaps/
 
