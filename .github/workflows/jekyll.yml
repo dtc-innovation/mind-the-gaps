@@ -7,10 +7,27 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Build website
+      run: bundle exec jekyll build --baseurl https://dtc-innovation.github.io/mind-the-gaps/
+
     - name: Build Jekyll site.
       uses: meitar/jekyll-builder-for-github-pages-action@v1
+
+    - name: Publish to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
